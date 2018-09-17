@@ -1,0 +1,6 @@
+#errorLi {
+	background: none;
+}
+.wufoo input.text, .wufoo textarea.textarea, .wufoo input.file, .wufoo select.select {
+	border-radius: 5px;
+}
