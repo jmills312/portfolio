@@ -32,17 +32,17 @@ a=b.extend({},c.defaults,a);return a.lazy?this.bind(a.event,function(d){var c=b(
 // Initialize all .smoothScroll links
 jQuery(function($){ $.localScroll({filter:'.smoothScroll'}); });
 
-
-/** Menu Fade In **/
-
+/** background fade in **/
 $(window).scroll(function() {
-
-  if ($(window).scrollTop() > 80 ){
+// 100 = The point you would like to fade the nav in.
+  
+	if ($(window).scrollTop() > 45 ){
     
- 		$('.gn-menu-main').addClass('show');
+ 		$('.bg').addClass('show');
     
   } else {
     
-    $('.gn-menu-main').removeClass('show').addClass('hide-bg');
-  };   	
+    $('.bg').removeClass('show');
+    
+ 	};   	
 });

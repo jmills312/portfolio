@@ -41,7 +41,7 @@
 
 
         <!-- PORTFOLIO IMAGE 2 -->
-        <div class="col-sm-6 oneMainDash">
+        <div class="col-sm-6">
           <div class="grid mask">
             <figure>
               <img class="img-responsive" src="assets/img/portfolio/folioThirteen.png" alt="PayAnywhere Redesign FAQ">
@@ -80,7 +80,7 @@
               <img class="img-responsive" src="assets/img/portfolio/folioOne.jpg" alt="PayAnywhere Redesign FAQ">
               <figcaption>
                 <h5>PayAnywhere</h5>
-                <a data-toggle="modal" href="#myModalPayAny" class="btn btn-primary btn-lg">Take a Look</a>
+                <a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
               </figcaption><!-- /figcaption -->
             </figure><!-- /figure -->
             </div><!-- /grid-mask -->
@@ -88,7 +88,7 @@
         </div><!-- /col -->
       
         <!-- Folio three popup -->     
-        <div class="modal fade" id="myModalPayAny" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
           <div class="modal-dialog">
             <div class="modal-content">
               <div class="modal-header">
@@ -146,7 +146,7 @@
         </div><!-- /.modal-dialog -->
       </div><!-- /.modal -->  
 
-      <div class="row spacer">
+      <div class="row">
       <!-- PORTFOLIO IMAGE 5 -->
       <div class="col-sm-3">
         <div class="grid mask">

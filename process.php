@@ -1,122 +1,64 @@
-<?php
-// Clean up the input values
-foreach($_POST as $key => $value) {
-  if(ini_get('magic_quotes_gpc'))
-    $_POST[$key] = stripslashes($_POST[$key]);
- 
-  $_POST[$key] = htmlspecialchars(strip_tags($_POST[$key]));
-}
- 
-// Assign the input values to variables for easy reference
-$name = $_POST["name"];
-$email = $_POST["email"];
-$message = $_POST["message"];
- 
-// Test input values for errors
-$errors = array();
-if(strlen($name) < 2) {
-  if(!$name) {
-    $errors[] = "You must enter a name.";
-  } else {
-    $errors[] = "Name must be at least 2 characters.";
-  }
-}
-if(!$email) {
-  $errors[] = "You must enter an email.";
-} else if(!validEmail($email)) {
-  $errors[] = "You must enter a valid email.";
-}
-if(strlen($message) < 10) {
-  if(!$message) {
-    $errors[] = "You must enter a message.";
-  } else {
-    $errors[] = "Message must be at least 10 characters.";
-  }
-}
- 
-if($errors) {
-  // Output errors and die with a failure message
-  $errortext = "";
-  foreach($errors as $error) {
-    $errortext .= "<li>".$error."</li>";
-  }
-  die("<span class='failure'>The following errors occured:<ul>". $errortext ."</ul></span>");
-}
- 
-// Send the email
-$to = "jared@jaredmc.com";
-$subject = "Contact Form: $name";
-$message = "$message";
-$headers = "From: $email";
- 
-mail($to, $subject, $message, $headers);
- 
-// Die with a success message
-die("<span class='success'>Success! Your message has been sent.</span>");
- 
-// A function that checks to see if
-// an email is valid
-function validEmail($email)
-{
-   $isValid = true;
-   $atIndex = strrpos($email, "@");
-   if (is_bool($atIndex) && !$atIndex)
-   {
-      $isValid = false;
-   }
-   else
-   {
-      $domain = substr($email, $atIndex+1);
-      $local = substr($email, 0, $atIndex);
-      $localLen = strlen($local);
-      $domainLen = strlen($domain);
-      if ($localLen < 1 || $localLen > 64)
-      {
-         // local part length exceeded
-         $isValid = false;
-      }
-      else if ($domainLen < 1 || $domainLen > 255)
-      {
-         // domain part length exceeded
-         $isValid = false;
-      }
-      else if ($local[0] == '.' || $local[$localLen-1] == '.')
-      {
-         // local part starts or ends with '.'
-         $isValid = false;
-      }
-      else if (preg_match('/\\.\\./', $local))
-      {
-         // local part has two consecutive dots
-         $isValid = false;
-      }
-      else if (!preg_match('/^[A-Za-z0-9\\-\\.]+$/', $domain))
-      {
-         // character not valid in domain part
-         $isValid = false;
-      }
-      else if (preg_match('/\\.\\./', $domain))
-      {
-         // domain part has two consecutive dots
-         $isValid = false;
-      }
-      else if(!preg_match('/^(\\\\.|[A-Za-z0-9!#%&`_=\\/$\'*+?^{}|~.-])+$/',
-                 str_replace("\\\\","",$local)))
-      {
-         // character not valid in local part unless
-         // local part is quoted
-         if (!preg_match('/^"(\\\\"|[^"])+"$/',
-             str_replace("\\\\","",$local)))
-         {
-            $isValid = false;
-         }
-      }
-      if ($isValid && !(checkdnsrr($domain,"MX") || checkdnsrr($domain,"A")))
-      {
-         // domain not found in DNS
-         $isValid = false;
-      }
-   }
-   return $isValid;
-}
-?>
+<section id="process">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12">
+				<h2 class="black-heading" id="two">Process</h2>
+			</div>
+		</div><!--/row-->
+		<div class="row">
+			<div class="col-xs-12">
+				<div class="border-bottom white-border"></div>
+			</div>
+		</div>
+		<div class="row left-arrow-container">
+			<div class="col-sm-7 col-sm-offset-1" data-aos="fade-left">
+				<img class="left_arrows" src="assets/img/process/left_arrows.svg">
+			</div>
+		</div>
+	<div class="process_steps">
+		<div class="row">
+				<div class="col-sm-2" data-aos="fade-right">
+					<div class="numbers">
+						<img src="assets/img/process/research.svg" alt="research icon">
+					</div>
+					<h4>research</h4>
+					<p class="step_subheading">and empathise</p>
+					<p>Understand problem, Gather and define requirements, stakeholder interviews, competitive analysis </p>
+				</div>
+				<div class="col-sm-1">
+					<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right">
+				</div>
+					<div class="col-sm-2" data-aos="fade-up">
+						<div class="numbers">
+							<img src="assets/img/process/ideate.svg" alt="ideate icon">
+						</div>	
+						<h4>ideate</h4>
+						<p class="step_subheading">and prototype</p>
+						<p>Analysis and brainstorm, whiteboard, user journeys,information architecture, sketch, wireframe, prototype</p>
+				</div>
+					<div class="col-sm-1">
+						<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right">
+				</div>
+					<div class="col-sm-2" data-aos="fade-down">
+						<div class="numbers">
+							<img src="assets/img/process/test.svg" alt="test icon">
+						</div>
+						<h4>test</h4>
+						<p class="step_subheading">and analyze</p>
+						<p>Feedback from  peers and stakeholders, usability testing, task completion surveys</p>
+					</div>
+					<div class="col-sm-1">
+						<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right">
+				</div>
+				<div class="col-sm-2" data-aos="fade-left">
+					<div class="numbers">
+						<img src="assets/img/process/paintbrush.svg" alt="ui paintbrush icon">
+					</div>		
+					<h4>ui</h4>
+					<p class="step_subheading">and interactive</p>
+					<p>Collaborate with UI to create hi-fidelity mocks, micro interactions, and deliverables for implemenation</p>
+				</div>
+			</div><!-- /row-->
+		</div><!-- /proccess_steps-->
+	</div><!-- /container -->
+</section>
