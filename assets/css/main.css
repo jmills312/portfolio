@@ -199,9 +199,9 @@ nav ul li a:hover {
   padding-top: 45px;
 }
 .folio:hover img {
-  -moz-transform: scale(1.05);
-  -webkit-transform: scale(1.05);
-  transform: scale(1.05);
+  -moz-transform: scale(1.01);
+  -webkit-transform: scale(1.01);
+  transform: scale(1.01);
 }
 /** Animated SVG **/
 .path {
