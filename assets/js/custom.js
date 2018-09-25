@@ -1,5 +1,12 @@
 
-	
+$(window).scroll(function() {
+	if ($(window).scrollTop() > 45 ){
+ 		$('.bg').addClass('show');
+  } else {
+    $('.bg').removeClass('show');
+ 	};   	
+});
+
 // Select all links with hashes
 $('a[href*="#"]')
   // Remove links that don't actually link to anything
@@ -36,14 +43,5 @@ $('a[href*="#"]')
       }
     }
   });
-
-$(window).scroll(function() {
-	if ($(window).scrollTop() > 45 ){
- 		$('.bg').addClass('show');
-  } else {
-    $('.bg').removeClass('show');
- 	};   	
-});
-
 
 
