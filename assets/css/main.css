@@ -184,24 +184,25 @@ nav ul li a:hover {
   padding: 0;
 }
 .folio {
-  background: radial-gradient(#FFECCB, #FFC056);
+  background: radial-gradient(#F8F8F8, #F9F9F9);
   min-height: 750px;
   text-align: center;
 }
 .folio-items:hover {
   box-shadow: 0 10px 20px rgba(56,56,56,.3);
+  transition: box-shadow 0.2s ease-in-out;
 }
 .folio img {
-  max-width: 100%;
+  max-width: 85%;
   -moz-transition: all 0.4s;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  padding-top: 45px;
+  padding: 20px;
 }
 .folio:hover img {
-  -moz-transform: scale(1.01);
-  -webkit-transform: scale(1.01);
-  transform: scale(1.01);
+  -moz-transform: scale(1.02);
+  -webkit-transform: scale(1.02);
+  transform: scale(1.02);
 }
 /** Animated SVG **/
 .path {

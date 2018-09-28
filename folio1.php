@@ -2,7 +2,6 @@
 
 <!-- nav -->
 <?php include 'nav.php' ?>
-
 <section id="onboarding">
 	<div class="container">
 		<div class="row">
@@ -18,25 +17,8 @@
 				<img src="assets/img/portfolio/rocket.svg">
 			</div><!-- col 5-->
 		</div><!--/row spaceship-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	</div><!--/container-->
 </section>
-
 
 <!-- custom js -->
 <?php include 'custom.js'?>
