@@ -190,7 +190,7 @@ nav ul li a:hover {
 }
 .folio-items:hover {
   box-shadow: 0 10px 20px rgba(56,56,56,.3);
-  transition: box-shadow 0.2s ease-in-out;
+  transition: box-shadow 0.5s ease-in-out;
 }
 .folio img {
   max-width: 85%;
