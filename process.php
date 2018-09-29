@@ -11,13 +11,13 @@
 			</div>
 		</div>
 		<div class="row left-arrow-container">
-			<div class="col-sm-7 col-sm-offset-1" data-aos="fade-left">
+			<div class="col-sm-7 col-sm-offset-1" data-aos="zoom-in" data-aos-duration="1200">
 				<img class="left_arrows" src="assets/img/process/left_arrows.svg">
 			</div>
 		</div>
 	<div class="process_steps">
 		<div class="row">
-				<div class="col-sm-2" data-aos="fade-right">
+				<div class="col-sm-2" data-aos="zoom-in" data-aos-duration="400">
 					<div class="numbers">
 						<img src="assets/img/process/research.svg" alt="research icon">
 					</div>
@@ -26,9 +26,9 @@
 					<p>Understand problem, Gather and define requirements, stakeholder interviews, competitive analysis </p>
 				</div>
 				<div class="col-sm-1">
-					<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right">
+					<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="500">
 				</div>
-					<div class="col-sm-2" data-aos="fade-up">
+					<div class="col-sm-2" data-aos="zoom-in" data-aos-duration="600">
 						<div class="numbers">
 							<img src="assets/img/process/ideate.svg" alt="ideate icon">
 						</div>	
@@ -37,9 +37,9 @@
 						<p>Analysis and brainstorm, whiteboard, user journeys,information architecture, sketch, wireframe, prototype</p>
 				</div>
 					<div class="col-sm-1">
-						<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right">
+						<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="700">
 				</div>
-					<div class="col-sm-2" data-aos="fade-down">
+					<div class="col-sm-2" data-aos="zoom-in" data-aos-duration="1000">
 						<div class="numbers">
 							<img src="assets/img/process/test.svg" alt="test icon">
 						</div>
@@ -48,9 +48,9 @@
 						<p>Feedback from  peers and stakeholders, usability testing, task completion surveys</p>
 					</div>
 					<div class="col-sm-1">
-						<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right">
+						<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="900">
 				</div>
-				<div class="col-sm-2" data-aos="fade-left">
+				<div class="col-sm-2" data-aos="zoom-in" data-aos-duration="1200">
 					<div class="numbers">
 						<img src="assets/img/process/paintbrush.svg" alt="ui paintbrush icon">
 					</div>		
