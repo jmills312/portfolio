@@ -1,7 +1,7 @@
 <section id="portfolio">
 	<div class="container">
 		<div class="row">
-			<div class="col-xs-12">
+			<div class="col-xs-12" id="three">
 				<h2 class="text-center">work</h2>
 			</div>
 		</div>
@@ -11,12 +11,18 @@
 			</div>
 		</div>
 		<!-- portfolio items -->
-		<div class="row folio-items">
+		<div class="row folio-items" data-aos="fade-up"
+     data-aos-duration="1000">
 			<a href="folio1.php">
 				<div class="col-xs-12 folio">
-					<img src="assets/img/portfolio/onboarding-imac.png" alt="onboarding dasboard">
+					<img src="assets/img/portfolio/onboarding-imac.png" alt="onboarding dasboard" >
 				</div>
 			</a><!--/col xs 12-->
 		</div><!--/row-->
+
+
+
+
 	</div><!--/container-->
 </section><!--/ portfolio -->
+

@@ -8,7 +8,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<h1> Hello, I’m Jared Mills a UI/UX guy based in Chicago</h1>
+				<h1> Hello, I’m Jared Mills an experience designer in Chicago</h1>
 				<p>I employ iterative <span class="bold-inline">design thinking</span>, and a passion for creating <span class="bold-inline">elegant interfaces</span> to evoke <span class="bold-inline">positive emotions</span>. </p>
 				<div class="arrow bounce">
 				<a href="#two"><img src="assets/img/downArrow.svg"></a>
@@ -49,7 +49,7 @@ $('a[href*="#"]')
         // Only prevent default if animation is actually gonna happen
         event.preventDefault();
         $('html, body').animate({
-          scrollTop: target.offset().top -40,
+          scrollTop: target.offset().top -45,
         }, 1000, function() {
           // Callback after animation
           // Must change focus!
@@ -60,6 +60,7 @@ $('a[href*="#"]')
           } else {
             $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
             $target.focus(); // Set focus again
+
           };
         });
       }
