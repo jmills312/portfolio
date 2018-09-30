@@ -11,13 +11,13 @@
 			</div>
 		</div>
 		<div class="row left-arrow-container">
-			<div class="col-sm-7 col-sm-offset-1" data-aos="zoom-in" data-aos-duration="1200">
+			<div class="col-sm-12" data-aos="zoom-in" data-aos-duration="1200">
 				<img class="left_arrows" src="assets/img/process/left_arrows.svg">
 			</div>
 		</div>
 	<div class="process_steps">
 		<div class="row">
-				<div class="col-sm-2" data-aos="zoom-in" data-aos-duration="400">
+				<div class="col-sm-2 col-sm-offset-1" data-aos="zoom-in" data-aos-duration="400">
 					<div class="numbers">
 						<img src="assets/img/process/research.svg" alt="research icon">
 					</div>
@@ -28,35 +28,35 @@
 				<div class="col-sm-1">
 					<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="500">
 				</div>
-					<div class="col-sm-2" data-aos="zoom-in" data-aos-duration="600">
+					<div class="col-sm-2" data-aos="zoom-in" data-aos-duration="700">
 						<div class="numbers">
 							<img src="assets/img/process/ideate.svg" alt="ideate icon">
 						</div>	
 						<h4>ideate</h4>
 						<p class="step_subheading">and prototype</p>
-						<p>Analysis and brainstorm, whiteboard, user journeys,information architecture, sketch, wireframe, prototype</p>
+						<p>Brainstorm, user journeys, information architecture, sketch, wireframe, prototype</p>
 				</div>
 					<div class="col-sm-1">
 						<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="700">
 				</div>
 					<div class="col-sm-2" data-aos="zoom-in" data-aos-duration="1000">
 						<div class="numbers">
-							<img src="assets/img/process/test.svg" alt="test icon">
+							<img src="assets/img/process/build.svg" alt="test icon">
 						</div>
-						<h4>test</h4>
-						<p class="step_subheading">and analyze</p>
-						<p>Feedback from  peers and stakeholders, usability testing, task completion surveys</p>
+						<h4>build</h4>
+						<p class="step_subheading">and implement</p>
+						<p>Implement functionality and build the experience</p>
 					</div>
 					<div class="col-sm-1">
 						<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="900">
 				</div>
-				<div class="col-sm-2" data-aos="zoom-in" data-aos-duration="1200">
+				<div class="col-sm-2" data-aos="zoom-in" data-aos-duration="1300">
 					<div class="numbers">
-						<img src="assets/img/process/paintbrush.svg" alt="ui paintbrush icon">
+						<img src="assets/img/process/test.svg" alt="ui paintbrush icon">
 					</div>		
-					<h4>ui</h4>
-					<p class="step_subheading">and interactive</p>
-					<p>Collaborate with UI to create hi-fidelity mocks, micro interactions, and deliverables for implemenation</p>
+					<h4>test</h4>
+					<p class="step_subheading">and analyze</p>
+					<p>Feedback, usability testing, task completion surveys</p>
 				</div>
 			</div><!-- /row-->
 		</div><!-- /proccess_steps-->

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="60px" height="14px" viewBox="0 0 60 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="31px" height="5px" viewBox="0 0 31 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>Line 3</title>
+    <title>Combined Shape</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Desktop-HD" transform="translate(-410.000000, -775.000000)" fill="#DBDADA" fill-rule="nonzero">
-            <g id="process" transform="translate(0.000000, 552.000000)">
-                <path id="Line-3" d="M470,230 L456,223 L456,237 L470,230 Z M457,229 L411.493953,229 L410.493953,229 L410.493953,231 L411.493953,231 L457,231 L458,231 L458,229 L457,229 Z"></path>
+        <g id="Desktop-HD" transform="translate(-411.000000, -795.000000)" fill="#343434">
+            <g id="process" transform="translate(-5.000000, 551.000000)">
+                <path d="M442,246 L442,244 L447,246.5 L442,249 L442,247 L441.723404,247 L416.276596,247 L416,247 L416,246 L416.276596,246 L441.723404,246 L442,246 Z" id="Combined-Shape"></path>
             </g>
         </g>
     </g>
