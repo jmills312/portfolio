@@ -13,6 +13,10 @@ body, ul, li, h1, h2, h3 ,h4 ,h5, p {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+.center-block {
+  margin: 0 auto;
+  display: inline-block;
+}
 /* Titles */
 h1, h2, h3 {
   font-family: 'Tahoma', helvetica, arial;
@@ -131,12 +135,11 @@ nav ul li a:hover {
 }
 .left_arrows {
   margin-top: 40px;
-}
-.left-arrow-container {
-  margin-bottom: 25px;
+  max-width: 70%;
 }
 .process_steps {
   margin-top: 15px;
+  padding-left: 8%;
 }
 .numbers {
   border: 1px dashed #e3e3e3;

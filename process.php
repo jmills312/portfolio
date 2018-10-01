@@ -10,23 +10,24 @@
 				<div class="border-bottom white-border"></div>
 			</div>
 		</div>
-		<div class="row left-arrow-container">
-			<div class="col-sm-12" data-aos="zoom-in" data-aos-duration="1200">
+		<div class="row">
+			<div class="col-lg-12" data-aos="zoom-in" data-aos-duration="1200">
 				<img class="left_arrows" src="assets/img/process/left_arrows.svg">
 			</div>
 		</div>
-	<div class="process_steps">
+	
 		<div class="row">
-				<div class="col-sm-2 col-sm-offset-1" data-aos="zoom-in" data-aos-duration="400">
+			<div class="process_steps center-block">
+				<div class="col-sm-2" data-aos="zoom-in" data-aos-duration="400">
 					<div class="numbers">
 						<img src="assets/img/process/research.svg" alt="research icon">
 					</div>
 					<h4>research</h4>
 					<p class="step_subheading">and empathise</p>
-					<p>Understand problem, Gather and define requirements, stakeholder interviews, competitive analysis </p>
+					<p>Define requirements, understand problem, stakeholder interviews, competitive analysis </p>
 				</div>
 				<div class="col-sm-1">
-					<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="500">
+					<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="950">
 				</div>
 					<div class="col-sm-2" data-aos="zoom-in" data-aos-duration="700">
 						<div class="numbers">
@@ -37,9 +38,9 @@
 						<p>Brainstorm, user journeys, information architecture, sketch, wireframe, prototype</p>
 				</div>
 					<div class="col-sm-1">
-						<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="700">
+						<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="1100">
 				</div>
-					<div class="col-sm-2" data-aos="zoom-in" data-aos-duration="1000">
+					<div class="col-sm-2" data-aos="zoom-in" data-aos-duration="1050">
 						<div class="numbers">
 							<img src="assets/img/process/build.svg" alt="test icon">
 						</div>
@@ -48,7 +49,7 @@
 						<p>Implement functionality and build the experience</p>
 					</div>
 					<div class="col-sm-1">
-						<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="900">
+						<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="1350">
 				</div>
 				<div class="col-sm-2" data-aos="zoom-in" data-aos-duration="1300">
 					<div class="numbers">

@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="888px" height="34px" viewBox="0 0 888 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="813px" height="47px" viewBox="0 0 813 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
     <title>Group 8</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Desktop-HD" transform="translate(-388.000000, -643.000000)" fill="#E3E3E3" fill-rule="nonzero">
-            <g id="Group-8" transform="translate(391.000000, 646.000000)">
-                <path id="Line-9" d="M1.5,31 L6,22 L-3,22 L1.5,31 Z M1,2.5 L1,22.5 L1,23 L2,23 L2,22.5 L2,2.5 L2,2 L1,2 L1,2.5 Z"></path>
-                <path id="Line-9" d="M296.25,30 L300.75,21 L291.75,21 L296.25,30 Z M295.75,3.5 L295.75,21.5 L295.75,22 L296.75,22 L296.75,21.5 L296.75,3.5 L296.75,3 L295.75,3 L295.75,3.5 Z"></path>
-                <path id="Line-8" d="M885,1.5 C885,-0.985281374 882.985281,-3 880.5,-3 C878.014719,-3 876,-0.985281374 876,1.5 C876,3.98528137 878.014719,6 880.5,6 C882.985281,6 885,3.98528137 885,1.5 Z M884,1.5 C884,3.43299662 882.432997,5 880.5,5 C878.567003,5 877,3.43299662 877,1.5 C877,-0.432996624 878.567003,-2 880.5,-2 C882.432997,-2 884,-0.432996624 884,1.5 Z M1.5,2 L876.5,2 L877,2 L877,1 L876.5,1 L1.5,1 L1,1 L1,2 L1.5,2 Z"></path>
+        <g id="Desktop-HD" transform="translate(-344.000000, -647.000000)">
+            <g id="Group-8" transform="translate(348.000000, 648.000000)">
+                <path id="Line-9" d="M1.02668361,28.5 L5.52668361,19.5 L-3.47331639,19.5 L1.02668361,28.5 Z M0.526683609,5.68434189e-14 L0.526683609,20 L0.526683609,20.5 L1.52668361,20.5 L1.52668361,20 L1.52668361,5.68434189e-14 L1.52668361,-0.5 L0.526683609,-0.5 L0.526683609,5.68434189e-14 Z" fill="#7C7C7C" fill-rule="nonzero"></path>
+                <path id="Line-9" d="M271.552308,28.9814815 L276.052308,19.9814815 L267.052308,19.9814815 L271.552308,28.9814815 Z M271.052308,1.51851852 L271.052308,20.4814815 L271.052308,20.9814815 L272.052308,20.9814815 L272.052308,20.4814815 L272.052308,1.51851852 L272.052308,1.01851852 L271.052308,1.01851852 L271.052308,1.51851852 Z" fill="#7C7C7C" fill-rule="nonzero"></path>
+                <polyline id="Line-8" stroke="#7C7C7C" stroke-linecap="square" points="2.05336722 0 806.973316 0 806.973316 43"></polyline>
+                <circle id="Oval-11" fill="#7C7C7C" cx="806.919949" cy="44" r="2"></circle>
             </g>
         </g>
     </g>
