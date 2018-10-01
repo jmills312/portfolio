@@ -6,3 +6,5 @@ $(window).scroll(function() {
     $('.bg').removeClass('show');
  	};   	
 });
+
+ $('.check').css('stroke-dashoffset', 0);
