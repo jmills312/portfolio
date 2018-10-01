@@ -15,25 +15,118 @@
 
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2 dashboard">
-				<div class="dash-header">
-						<img class="cnvr_logo" src="assets/img/portfolio/cnvr-logo.png" width="19px" height="17px" alt="conversant logo">
-				</div><!--/dash-header-->
-				<div class="left_nav">
-					<div class="nav_item"></div>
-					<div class="nav_item"></div>
-					<div class="nav_item"></div>
-					<div class="nav_item"></div>
-					<div class="nav_item"></div>
-					<div class="nav_item"></div>
-				</div><!--/left nav-->	
+				<div class="row">
+					<div class="col-sm-12">
+						<div class="dash-header">
+								<img class="cnvr_logo" src="assets/img/portfolio/cnvr-logo.png" width="19px" height="17px" alt="conversant logo">
+							</div>
+					</div>
+				</div><!-- row -->
+				<!--left nav -->
+				<div class="col-md-3 col-sm-4 nav_items">
+					<div class="left_nav">
+						<div class="nav_item">
+							<div class="col-md-4 col-sm-4">
+								<div class="nav_box"></div>
+							</div>
+							<div class="col-sm-8">
+								<div class="nav_line"></div>
+							</div>
+						</div>
+					<div class="nav_item">
+						<div class="col-md-4 col-sm-4">
+							<div class="nav_box"></div>
+						</div>
+						<div class="col-sm-8">
+							<div class="nav_line"></div>
+						</div>
+					</div>
+					<div class="nav_item">
+						<div class="col-md-4 col-sm-4">
+							<div class="nav_box"></div>
+						</div>
+						<div class="col-sm-8">
+							<div class="nav_line"></div>
+						</div>
+					</div>
+					<div class="nav_item">
+						<div class="col-md-4 col-sm-4">
+							<div class="nav_box"></div>
+						</div>
+						<div class="col-sm-8">
+							<div class="nav_line"></div>
+						</div>
+					</div>
+					<div class="nav_item">
+						<div class="col-md-4 col-sm-4">
+							<div class="nav_box"></div>
+						</div>
+						<div class="col-sm-8">
+							<div class="nav_line"></div>
+						</div>
+					</div>
+					<div class="nav_item">
+						<div class="col-md-4 col-sm-4">
+							<div class="nav_box"></div>
+						</div>
+						<div class="col-sm-8">
+							<div class="nav_line"></div>
+						</div>
+						</div>
+					</div><!--/left nav-->
+				</div><!--/ col 3-->
 
-				<div class="main_dash">
-					<svg class="checkmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><circle class="checkmark__circle" cx="26" cy="26" r="25" fill="none"/><path class="checkmark__check" fill="none" d="M14.1 27.2l7.1 7.2 16.7-16.8"/></svg>
-				</div><!--/main dash-->
+				<div class="col-md-9 col-sm-8 main">
+					<div class="col-sm-3">
+						<div class="high_task task_one"></div>
+					</div><!--/ col-sm-2-->
+					<div class="col-sm-3">
+						<div class="high_task task_two"></div>
+					</div><!--/ col-sm-2-->
+					<div class="col-sm-3">
+						<div class="high_task task_three"></div>
+					</div><!--/ col-sm-2-->
+					<div class="col-sm-3">
+						<div class="high_task task_four"></div>
+					</div><!--/ col-sm-2-->
+					<div class="row">
+						<div class="col-sm-3 check">				
+							<svg class="checkmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><circle class="checkmark__circle" cx="26" cy="26" r="25" fill="none"/><path class="checkmark__check" fill="none" d="M14.1 27.2l7.1 7.2 16.7-16.8"/></svg>
+						</div><!--/col-sm-4-->
+						<div class="col-sm-8"></div>
+					</div>
+					<div class="row">
+						<div class="col-sm-3 check">				
+							<svg class="checkmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><circle class="checkmark__circle" cx="26" cy="26" r="25" fill="none"/><path class="checkmark__check" fill="none" d="M14.1 27.2l7.1 7.2 16.7-16.8"/></svg>
+						</div><!--/col-sm-4-->
+						<div class="col-sm-8"></div>
+					</div>
+					<div class="row">
+						<div class="col-sm-3 check">				
+							<svg class="checkmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52"><circle class="checkmark__circle" cx="26" cy="26" r="25" fill="none"/><path class="checkmark__check" fill="none" d="M14.1 27.2l7.1 7.2 16.7-16.8"/></svg>
+						</div><!--/col-sm-4-->
+						<div class="col-sm-8"></div>
+					</div>
+			
+				
 
-			</div><!--/ col 8-->
+
+				
+
+
+		
+
+		
+
 
 			
+
+
+
+	
+
+
+			</div><!--/ col 8-->
 		</div><!--/row-->
 	</div><!--/container-->
 </section>
