@@ -88,6 +88,10 @@ nav ul li a {
   -o-transition: color .3s ease-in-out;
   transition: color .3s ease-in-out;
 }
+nav li a:focus {
+  text-decoration: none;
+  outline: none !important;
+}
 nav ul li a:hover {
   color: #444;
   text-decoration: none;
@@ -135,7 +139,6 @@ nav ul li a:hover {
 }
 .left_arrows {
   margin-top: 40px;
-  max-width: 70%;
 }
 .process_steps {
   margin-top: 15px;
@@ -256,10 +259,27 @@ nav ul li a:hover {
 }
 
 
+@media screen and (max-width: 1199px) { 
+  .left_arrows {
+    max-width: 70%;
+  }
+}
 
+@media screen and (max-width: 991px) { 
+  #process .col-sm-1 {
+    display: none;
+  }
 
+}
 
-
+@media screen and (max-width: 767px) { 
+  .left_arrows {
+    display: none;
+  }
+  #process .col-sm-3 {
+    margin-bottom: 25px;
+  }
+}
 
 
 

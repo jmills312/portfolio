@@ -7,9 +7,9 @@
 			<div class="col-lg-4 col-lg-offset-7 col-md-5 col-md-offset-6 col-sm-7 col-sm-offset-4 col-xs-12">
 				<ul>
 					<li><a href="#two">process</a></li>
-					<li><a href="#three">work</li></a></li>
-					<li><a href="">resume</li></a></li>
-					<li><a href="#four">contact</li></a></li>
+					<li><a href="#three">work</a></li>
+					<li><a href="">resume</a></li>
+					<li><a href="#four">contact</a></li>
 				</ul>
 			</div>
 		</div>
