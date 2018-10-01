@@ -8,7 +8,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6">
-				<h1> Hello, I’m Jared Mills, a designer of thoughtful experiences</h1>
+				<h1> Hello, I’m Jared Mills, an experience designer in Chicago</h1>
 				<p>I employ iterative <span class="bold-inline">design thinking</span>, and a passion for creating <span class="bold-inline">elegant interfaces</span> to evoke <span class="bold-inline">positive emotions</span></p>
 				<div class="arrow bounce">
 				<a href="#two"><img src="assets/img/downArrow.svg"></a>

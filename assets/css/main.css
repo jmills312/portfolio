@@ -258,20 +258,19 @@ nav ul li a:hover {
   }
 }
 
-
+/*-----------------------------------*/
+/*          MEDIA QUERIES            */
+/*-----------------------------------*/
 @media screen and (max-width: 1199px) { 
   .left_arrows {
     max-width: 70%;
   }
 }
-
 @media screen and (max-width: 991px) { 
   #process .col-sm-1 {
     display: none;
   }
-
 }
-
 @media screen and (max-width: 767px) { 
   .left_arrows {
     display: none;
