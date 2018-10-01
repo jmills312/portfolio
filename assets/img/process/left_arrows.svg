@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="754px" height="29px" viewBox="0 0 754 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="888px" height="34px" viewBox="0 0 888 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
     <title>Group 8</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Desktop-HD" transform="translate(-370.000000, -687.000000)" fill="#E3E3E3" fill-rule="nonzero">
-            <g id="Group-8" transform="translate(375.000000, 688.000000)">
-                <path id="Path-8" d="M294,26.5 L298.5,17.5 L289.5,17.5 L294,26.5 Z M294.5,18 L294.5,0 L294,0.5 L749,0.5 L749,-0.5 L294,-0.5 L293.5,-0.5 L293.5,0 L293.5,18 L294.5,18 Z"></path>
-                <path id="Path-8" d="M-3.061617e-17,27.5 L4.5,18.5 L-4.5,18.5 L-3.061617e-17,27.5 Z M0.5,19 L0.5,0 L0,0.5 L293,0.5 L293,-0.5 L0,-0.5 L-0.5,-0.5 L-0.5,0 L-0.5,19 L0.5,19 Z"></path>
+        <g id="Desktop-HD" transform="translate(-388.000000, -643.000000)" fill="#E3E3E3" fill-rule="nonzero">
+            <g id="Group-8" transform="translate(391.000000, 646.000000)">
+                <path id="Line-9" d="M1.5,31 L6,22 L-3,22 L1.5,31 Z M1,2.5 L1,22.5 L1,23 L2,23 L2,22.5 L2,2.5 L2,2 L1,2 L1,2.5 Z"></path>
+                <path id="Line-9" d="M296.25,30 L300.75,21 L291.75,21 L296.25,30 Z M295.75,3.5 L295.75,21.5 L295.75,22 L296.75,22 L296.75,21.5 L296.75,3.5 L296.75,3 L295.75,3 L295.75,3.5 Z"></path>
+                <path id="Line-8" d="M885,1.5 C885,-0.985281374 882.985281,-3 880.5,-3 C878.014719,-3 876,-0.985281374 876,1.5 C876,3.98528137 878.014719,6 880.5,6 C882.985281,6 885,3.98528137 885,1.5 Z M884,1.5 C884,3.43299662 882.432997,5 880.5,5 C878.567003,5 877,3.43299662 877,1.5 C877,-0.432996624 878.567003,-2 880.5,-2 C882.432997,-2 884,-0.432996624 884,1.5 Z M1.5,2 L876.5,2 L877,2 L877,1 L876.5,1 L1.5,1 L1,1 L1,2 L1.5,2 Z"></path>
             </g>
         </g>
     </g>
