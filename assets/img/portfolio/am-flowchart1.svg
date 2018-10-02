@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="783px" height="165px" viewBox="0 0 783 165" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>am-flowchart1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="onboarding-dash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landingpage" transform="translate(-327.000000, -3290.000000)">
+            <g id="am-flowchart1" transform="translate(328.000000, 3291.000000)">
+                <circle id="Oval" stroke="#1D1D1D" fill="#FFFFFF" cx="32" cy="32" r="32"></circle>
+                <path id="Line" d="M131.009259,34 L87.4907407,34 L86.9907407,34 L86.9907407,33 L87.4907407,33 L131.009259,33 L131.009259,29 L140.009259,33.5 L131.009259,38 L131.009259,34 Z" fill="#323232" fill-rule="nonzero"></path>
+                <path id="Line" d="M371.953704,35 L322.546296,35 L322.046296,35 L322.046296,34 L322.546296,34 L371.953704,34 L371.953704,30 L380.953704,34.5 L371.953704,39 L371.953704,35 Z" fill="#323232" fill-rule="nonzero"></path>
+                <path id="Line" d="M598,34 L553.5,34 L553,34 L553,33 L553.5,33 L598,33 L598,29 L607,33.5 L598,38 L598,34 Z" fill="#323232" fill-rule="nonzero"></path>
+                <path id="Line" d="M713,137.189655 L713,110.310345 L713,109.810345 L714,109.810345 L714,110.310345 L714,137.189655 L718,137.189655 L713.5,146.189655 L709,137.189655 L713,137.189655 Z" fill="#323232" fill-rule="nonzero"></path>
+                <rect id="Rectangle" stroke="#1D1D1D" fill="#FFFFFF" x="401.5" y="5.5" width="140" height="56" rx="2"></rect>
+                <text id="Dashboard-Activated" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" fill="#222222">
+                    <tspan x="10.4614258" y="31">Dashboard </tspan>
+                    <tspan x="13.2783203" y="42">Activated</tspan>
+                </text>
+                <text id="Enter-dates-for-subt" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" fill="#222222">
+                    <tspan x="422.993408" y="37">Enter dates for subtasks</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#1D1D1D" fill="#FFFFFF" x="162.5" y="5.5" width="138" height="56" rx="2"></rect>
+                <text id="Invite-emailed-to-cl" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" fill="#222222">
+                    <tspan x="185.72876" y="36">Invite emailed to client</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#1D1D1D" fill="#FFFFFF" x="643.5" y="5.5" width="138" height="56" rx="2"></rect>
+                <text id="Review-subtask-with" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" fill="#222222">
+                    <tspan x="659.140625" y="35">Review subtask with client</tspan>
+                </text>
+                <text id="Proceeds-to-1.1" font-family="Roboto-Medium, Roboto" font-size="10" font-weight="400" fill="#222222">
+                    <tspan x="678.216797" y="163">Proceeds to 1.1</tspan>
+                </text>
+                <text id="Lauanch-date-determi" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" fill="#686868">
+                    <tspan x="413" y="84">Lauanch date determined </tspan>
+                    <tspan x="413" y="95">by latest subtask date</tspan>
+                </text>
+                <text id="Dates-edited-based-o" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" fill="#686868">
+                    <tspan x="646" y="84">Dates edited based on </tspan>
+                    <tspan x="646" y="95">client feedback</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

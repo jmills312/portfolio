@@ -56,6 +56,15 @@ h2 {
   font-weight: 300;
   color: #333;
 }
+.m-bottom {
+  margin-bottom: 25px;
+}
+.m-bottom2 {
+  margin-bottom: 45px;
+}
+.remove-m {
+  margin-bottom: 0 !important;
+}
 /* NAV */
 /* Menu Fade In */ 
 .show {
@@ -276,6 +285,7 @@ nav ul li a:hover {
 #onboarding {
   background: #373737;
   padding-top: 145px;
+  margin-bottom: 95px;
 }
 #onboarding h2 {
   color: #fefefe;
@@ -285,7 +295,9 @@ nav ul li a:hover {
 }
 /** Task line svg **/ 
 .task_line {
-  margin-top: 18px;
+  height: 4px;
+  background: #ccc;
+  margin-top: 25px;
 }
 /** Checkmark svg**/
 .checkmark__circle {
@@ -368,8 +380,39 @@ animation-delay: 2s;
   }
 }
 /* onboard main section */
+.folio1 p, li  {
+  color: #6a6a6a;
+  font-size: 16px;
+  line-height: 25px;
+}
+.folio1 p {
+  margin-bottom: 25px;
+}
+.folio1 ul li {
+  list-style-type: circle;
+  margin-left: 15px;
+}
+.folio1 h3 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
 .task-list {
   max-width: 100%;
+}
+.pain-points {
+  background: #FAFAFA;
+  padding-top: 12px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0px 3px 7px -2px rgba(156,156,156,0.7);
+  -moz-box-shadow: 0px 3px 7px -2px rgba(156,156,156,0.7);
+  box-shadow: 0px 3px 7px -2px rgba(156,156,156,0.7); 
+}
+.pain-points ul {
+  margin-top: 38px;
+}
+.pain-points ul li {
+  font-size: 13px;
+  line-height: 21px;
 }
 /*-----------------------------------*/
 /*          MEDIA QUERIES            */

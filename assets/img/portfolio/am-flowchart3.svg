@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="883px" height="76px" viewBox="0 0 883 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="onboarding-dash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landingpage" transform="translate(-280.000000, -4455.000000)">
+            <g id="Group-7" transform="translate(280.000000, 4453.000000)">
+                <circle id="Oval" stroke="#1D1D1D" fill="#FFFFFF" cx="850" cy="45" r="32"></circle>
+                <path id="Line" d="M179.009259,45 L135.490741,45 L134.990741,45 L134.990741,44 L135.490741,44 L179.009259,44 L179.009259,40 L188.009259,44.5 L179.009259,49 L179.009259,45 Z" fill="#323232" fill-rule="nonzero"></path>
+                <path id="Line" d="M396,45 L351.5,45 L351,45 L351,44 L351.5,44 L396,44 L396,40 L405,44.5 L396,49 L396,45 Z" fill="#323232" fill-rule="nonzero"></path>
+                <path id="Line" d="M596,45 L551.5,45 L551,45 L551,44 L551.5,44 L596,44 L596,40 L605,44.5 L596,49 L596,45 Z" fill="#323232" fill-rule="nonzero"></path>
+                <path id="Line" d="M788,45 L743.5,45 L743,45 L743,44 L743.5,44 L788,44 L788,40 L797,44.5 L788,49 L788,45 Z" fill="#323232" fill-rule="nonzero"></path>
+                <rect id="Rectangle" stroke="#1D1D1D" fill="#FFFFFF" x="209.5" y="16.5" width="140" height="56" rx="2"></rect>
+                <text id="Campaigns-Live!" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" fill="#222222">
+                    <tspan x="827.608887" y="44">Campaigns </tspan>
+                    <tspan x="841.108887" y="55">Live!</tspan>
+                </text>
+                <text id="Track-dates-updated" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" fill="#222222">
+                    <tspan x="238.835693" y="47">Track  dates updated</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#1D1D1D" fill="#FFFFFF" x="0.5" y="16.5" width="138" height="56" rx="2"></rect>
+                <text id="Subtask-dates-update" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" fill="#222222">
+                    <tspan x="40.4499512" y="43">Subtask dates </tspan>
+                    <tspan x="52.8601074" y="54">updated</tspan>
+                </text>
+                <text id="a." font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" fill="#222222">
+                    <tspan x="4" y="9">a.</tspan>
+                </text>
+                <text id="b." font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" fill="#222222">
+                    <tspan x="217" y="9">b.</tspan>
+                </text>
+                <text id="c." font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" fill="#222222">
+                    <tspan x="437" y="9">c.</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#1D1D1D" fill="#FFFFFF" x="431.5" y="16.5" width="138" height="56" rx="2"></rect>
+                <text id="Subtasks-completed-a" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" fill="#222222">
+                    <tspan x="459.473877" y="37">Subtasks completed</tspan>
+                    <tspan x="447.342773" y="48">and campaign launch date </tspan>
+                    <tspan x="480.578613" y="59">confirmed</tspan>
+                </text>
+                <text id="d." font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" fill="#222222">
+                    <tspan x="617" y="9">d.</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#1D1D1D" fill="#FFFFFF" x="611.5" y="16.5" width="138" height="56" rx="2"></rect>
+                <text id="Dashboard-is-turned" font-family="Roboto-Regular, Roboto" font-size="9" font-weight="normal" fill="#222222">
+                    <tspan x="633.303955" y="42">Dashboard is turned off </tspan>
+                    <tspan x="663.079102" y="53">for client</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
