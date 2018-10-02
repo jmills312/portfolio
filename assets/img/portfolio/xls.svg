@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="123px" viewBox="0 0 102 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>xls</title>
+    <desc>Created with Sketch.</desc>
+    <g id="onboarding-dash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landingpage" transform="translate(-548.000000, -1497.000000)">
+            <g id="xls" transform="translate(549.000000, 1497.000000)">
+                <g id="Group-3" transform="translate(21.000000, 24.262649)">
+                    <path d="M59,14.0360722 L47.3201678,1.323439 C47.1307908,1.11731608 46.8636925,1 46.5837812,1 L2,1 C1.44771525,1 1,1.44771525 1,2 L1,71.0126058 C1,71.5648905 1.44771525,72.0126058 2,72.0126058 L58,72.0126058 C58.5522847,72.0126058 59,71.5648905 59,71.0126058 L59,14.0360722 Z" id="Combined-Shape" stroke="#424242" stroke-width="2"></path>
+                    <path d="M40.5084774,14.0171923 L47.4639978,6.55702182 C48.038042,6.01862363 48.6248209,5.2644922 49.4624937,5.63344812 C49.649703,5.71590509 50.90526,6.93667817 51.0335516,7.05700335 L57.8378439,13.4449371" id="Triangle-2" stroke="#424242" stroke-width="2" transform="translate(49.173161, 9.776353) rotate(-133.000000) translate(-49.173161, -9.776353) "></path>
+                    <polygon id="Rectangle-14" fill="#424242" points="5 20.0034536 16 20.0034536 16 23.0039717 5 23.0039717"></polygon>
+                    <polygon id="Rectangle-14-Copy-3" fill="#B8B8B8" points="5 27.0046624 16 27.0046624 16 30.0051805 5 30.0051805"></polygon>
+                    <rect id="Rectangle-14-Copy-4" fill="#B8B8B8" x="23" y="27.0046624" width="11" height="3.00051805"></rect>
+                    <rect id="Rectangle-14-Copy-5" fill="#B8B8B8" x="41" y="27.0046624" width="11" height="3.00051805"></rect>
+                    <polygon id="Rectangle-14-Copy-6" fill="#B8B8B8" points="5 34.0058712 16 34.0058712 16 37.0063892 5 37.0063892"></polygon>
+                    <polygon id="Rectangle-14-Copy-7" fill="#B8B8B8" points="23 34.0058712 34 34.0058712 34 37.0063892 23 37.0063892"></polygon>
+                    <polygon id="Rectangle-14-Copy-8" fill="#B8B8B8" points="41 34.0058712 52 34.0058712 52 37.0063892 41 37.0063892"></polygon>
+                    <polygon id="Rectangle-14-Copy-9" fill="#B8B8B8" points="5 41.00708 16 41.00708 16 44.007598 5 44.007598"></polygon>
+                    <polygon id="Rectangle-14-Copy-10" fill="#B8B8B8" points="23 41.00708 34 41.00708 34 44.007598 23 44.007598"></polygon>
+                    <polygon id="Rectangle-14-Copy-11" fill="#B8B8B8" points="41 41.00708 52 41.00708 52 44.007598 41 44.007598"></polygon>
+                    <polygon id="Rectangle-14-Copy-12" fill="#B8B8B8" points="5 49.0084614 16 49.0084614 16 52.0089795 5 52.0089795"></polygon>
+                    <polygon id="Rectangle-14-Copy-13" fill="#B8B8B8" points="23 49.0084614 34 49.0084614 34 52.0089795 23 52.0089795"></polygon>
+                    <polygon id="Rectangle-14-Copy-14" fill="#B8B8B8" points="41 49.0084614 52 49.0084614 52 52.0089795 41 52.0089795"></polygon>
+                    <polygon id="Rectangle-14-Copy" fill="#424242" points="23 20.0034536 34 20.0034536 34 23.0039717 23 23.0039717"></polygon>
+                    <polygon id="Rectangle-14-Copy-2" fill="#424242" points="41 20.0034536 52 20.0034536 52 23.0039717 41 23.0039717"></polygon>
+                </g>
+                <text id="XLS" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#2F2F2F">
+                    <tspan x="26" y="91.2721464">XLS</tspan>
+                </text>
+                <path d="M0.1015625,0.809380936 L100.5,122.779658" id="Path-8" stroke="#D0021B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

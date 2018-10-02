@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="122px" viewBox="0 0 102 122" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>phone</title>
+    <desc>Created with Sketch.</desc>
+    <g id="onboarding-dash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landingpage" transform="translate(-719.000000, -1498.000000)">
+            <g id="phone" transform="translate(720.000000, 1498.000000)">
+                <path d="M0,-2.13162821e-14 L100.398438,121.970277" id="Path-8" stroke="#D0021B"></path>
+                <g id="Group-4" transform="translate(11.000000, 24.000000)">
+                    <rect id="Rectangle-15" stroke="#424242" stroke-width="2" x="1" y="1.26282162" width="19" height="70.0124331" rx="1"></rect>
+                    <rect id="Rectangle-16" stroke="#424242" stroke-width="2" x="27" y="9.26420307" width="54" height="56.0100155" rx="1"></rect>
+                    <rect id="Rectangle-5" fill="#424242" x="35" y="18.2659299" width="38" height="8.00138145" rx="1"></rect>
+                    <rect id="Rectangle-5-Copy" fill="#424242" x="35" y="33.2685201" width="10" height="7.00120877" rx="1"></rect>
+                    <rect id="Rectangle-5-Copy" fill="#424242" x="49" y="33.2685201" width="10" height="7.00120877" rx="1"></rect>
+                    <rect id="Rectangle-5-Copy" fill="#424242" x="63" y="33.2685201" width="10" height="7.00120877" rx="1"></rect>
+                    <rect id="Rectangle-5-Copy" fill="#424242" x="35" y="43.2702469" width="10" height="7.00120877" rx="1"></rect>
+                    <rect id="Rectangle-5-Copy" fill="#424242" x="49" y="43.2702469" width="10" height="7.00120877" rx="1"></rect>
+                    <rect id="Rectangle-5-Copy" fill="#424242" x="63" y="43.2702469" width="10" height="7.00120877" rx="1"></rect>
+                    <rect id="Rectangle-5-Copy" fill="#424242" x="35" y="53.2719738" width="10" height="7.00120877" rx="1"></rect>
+                    <rect id="Rectangle-5-Copy" fill="#424242" x="49" y="53.2719738" width="10" height="7.00120877" rx="1"></rect>
+                    <rect id="Rectangle-5-Copy" fill="#424242" x="63" y="53.2719738" width="10" height="7.00120877" rx="1"></rect>
+                    <path d="M65,76.2759454 L65.0000001,80.2775 C65.0000001,83.0389238 62.7614238,85.2775 60.0000001,85.2775 L15.2679476,85.2775 C12.5065238,85.2775 10.2679476,83.0389238 10.2679476,80.2775 L10.2679476,71.1070843" id="Rectangle-17" stroke="#424242" stroke-width="3"></path>
+                    <path d="M65,73.2754274 L65,76.713521 C65,77.5766149 63.5793651,78.2762908 61.8269231,78.2762908 L32,78.2762908" id="Rectangle-17" stroke="#424242" stroke-width="3" transform="translate(48.500000, 75.775859) scale(1, -1) translate(-48.500000, -75.775859) "></path>
+                    <path d="M32.5,65.7185767 L32.5,72.8310693" id="Line-3" stroke="#424242" stroke-width="3" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -275,9 +275,9 @@ nav ul li a:hover {
 }
 #onboarding {
   background: #373737;
+  padding-top: 145px;
 }
 #onboarding h2 {
-  padding-top: 145px;
   color: #fefefe;
   font-size: 48px;
   vertical-align: text-bottom;
@@ -287,12 +287,6 @@ nav ul li a:hover {
 .task_line {
   margin-top: 18px;
 }
-
-
-
-
-
-
 /** Checkmark svg**/
 .checkmark__circle {
   stroke-dasharray: 166;
@@ -301,7 +295,7 @@ nav ul li a:hover {
   stroke-miterlimit: 10;
   stroke: #4A90E2;
   fill: none;
-  animation: stroke 1s cubic-bezier(0.65, 0, 0.45, 1) forwards;
+  animation: stroke 3s cubic-bezier(0.65, 0, 0.45, 1) forwards;
 }
 .checkmark {
   width: 38px;
@@ -312,7 +306,19 @@ nav ul li a:hover {
   stroke-miterlimit: 10;
   margin: 10% auto;
   box-shadow: inset 0px 0px 0px #4A90E2;
-  animation: fill 1.5s ease-in-out 1.5s forwards, scale .8s ease-in-out 1.5s both;
+}
+.check1 {
+  
+  animation: fill .5s ease-in-out .5s forwards, scale .8s ease-in-out .8s both;
+  animation-delay: .8s;
+}
+.check2 {
+  animation: fill .5s ease-in-out .5s forwards, scale .8s ease-in-out .8s both; 
+  animation-delay: 1.4s; 
+}
+.check3 {
+  animation: fill .5s ease-in-out .5s forwards, scale .8s ease-in-out .8s both;
+animation-delay: 2s;    
 }
 .checkmark__check {
   transform-origin: 50% 50%;
@@ -338,15 +344,6 @@ nav ul li a:hover {
     box-shadow: inset 0px 0px 0px 30px #4A90E2;
   }
 }
-
-
-
-
-
-
-
-
-
 /* spaceship */
 .spaceship:hover {
   animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
@@ -370,7 +367,10 @@ nav ul li a:hover {
     transform: translate3d(4px, 0, 0);
   }
 }
-
+/* onboard main section */
+.task-list {
+  max-width: 100%;
+}
 /*-----------------------------------*/
 /*          MEDIA QUERIES            */
 /*-----------------------------------*/
