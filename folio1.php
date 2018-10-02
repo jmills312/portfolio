@@ -75,7 +75,7 @@
 					</div><!--/ col 3-->
 					<div class="col-md-9 col-sm-8 main">
 						<div class="col-sm-3">
-							<div class="high_task task_one"></div>
+							<div class="high_task task_one"><div class="card-heading"></div></div>
 						</div><!--/ col-sm-2-->
 						<div class="col-sm-3">
 							<div class="high_task task_two"></div>
@@ -178,14 +178,17 @@
 		</div>
 
 		<div class="row">
-			<div class="col-md-6 col-md-offset-2">
+			<div class="col-md-6 col-md-offset-3">
 				<h3>AM Flowchart</h3>
 			</div>
 		<div class="row">
 			<div class="col-sm-10 col-sm-offset-1">
-				<img src="assets/img/portfolio/am-flowchart1.svg" alt="onboarding flowchart">
-				<img src="assets/img/portfolio/am-flowchart2.svg" alt="onboarding flowchart">
-				<img src="assets/img/portfolio/am-flowchart3.svg" alt="onboarding flowchart">
+				<p class="flow-heading">1.0 Onboarding</p>
+				<img class="flowchart" src="assets/img/portfolio/am-flowchart1.svg" alt="onboarding flowchart">
+				<p class="flow-heading">1.1 Subtasks</p>
+				<img class="flowchart" src="assets/img/portfolio/am-flowchart2.svg" alt="onboarding flowchart">
+				<p class="flow-heading">1.2 Track Updates</p>
+				<img class="flowchart" src="assets/img/portfolio/am-flowchart3.svg" alt="onboarding flowchart">
 			</div>
 		</div>
 
