@@ -227,7 +227,6 @@ nav ul li a:hover {
   display: block;
 }
 .left_nav {
-  background:#fff;
   border-right: 1px solid #bbb;
   border-top: 1px solid #bbb;
   margin-top: 45px;
@@ -237,7 +236,7 @@ nav ul li a:hover {
   padding-left: 0;
 }
 .nav_item {
-  background: #fefefe;
+  background: #fff;
 }
 .nav_box {
   background: #ccc;
@@ -249,7 +248,7 @@ nav ul li a:hover {
   width: 90%;
   height: 8px;
   background: #ccc;
-  margin: 20px 0 0;
+  margin: 24px 0 0;
 }
 .left_nav .nav_item {
   border-bottom: 1px solid #bbb;
@@ -263,7 +262,7 @@ nav ul li a:hover {
 }
 .main .task_one {
   background: #fbfbfb;
-  border-top: 3px solid #4A90E2;
+  border-top: 4px solid #4A90E2;
 }
 .main .task_two, .task_three, .task_four {
   background: #ccc;
@@ -284,6 +283,16 @@ nav ul li a:hover {
   vertical-align: text-bottom;
   margin-bottom: 45px;
 }
+/** Task line svg **/ 
+.task_line {
+  margin-top: 18px;
+}
+
+
+
+
+
+
 /** Checkmark svg**/
 .checkmark__circle {
   stroke-dasharray: 166;
@@ -292,7 +301,7 @@ nav ul li a:hover {
   stroke-miterlimit: 10;
   stroke: #4A90E2;
   fill: none;
-  animation: stroke 0.6s cubic-bezier(0.65, 0, 0.45, 1) forwards;
+  animation: stroke 1s cubic-bezier(0.65, 0, 0.45, 1) forwards;
 }
 .checkmark {
   width: 38px;
@@ -303,13 +312,13 @@ nav ul li a:hover {
   stroke-miterlimit: 10;
   margin: 10% auto;
   box-shadow: inset 0px 0px 0px #4A90E2;
-  animation: fill .4s ease-in-out .4s forwards, scale .3s ease-in-out .9s both;
+  animation: fill 1.5s ease-in-out 1.5s forwards, scale .8s ease-in-out 1.5s both;
 }
 .checkmark__check {
   transform-origin: 50% 50%;
   stroke-dasharray: 48;
   stroke-dashoffset: 48;
-  animation: stroke 0.3s cubic-bezier(0.65, 0, 0.45, 1) 0.8s forwards;
+  animation: stroke 0.9s cubic-bezier(0.65, 0, 0.45, 1) 0.9s forwards;
 }
 @keyframes stroke {
   100% {
