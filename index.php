@@ -3,7 +3,6 @@
 <body>
 <!-- nav -->
 <?php include 'nav.php' ?>
-
 <section id="top">
 	<div class="container">
 		<div class="row">
@@ -24,6 +23,10 @@
 <?php include 'process.php' ?>
 <!-- portfolio -->
 <?php include 'portfolio.php' ?>
+
+
+
+
 <!-- custom js -->
 <?php include 'custom.js' ?>
 

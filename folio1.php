@@ -192,7 +192,24 @@
 			</div>
 		</div>
 
-
+		<section class="concepts">
+			<div class="col-md-6 col-md-offset-3">
+				<h3>Concept Sketches</h3>
+					<p>A few different paths were explored for layouts and design. Keeping in mind the requirements (referenced above), Gantt charts (Concept A) and high level cards (Concept B) were the outcomes - providing the best hierarchy for the tracks and associated subtasks. 
+					</p>
+					<p>Option B was the winner based on our primary users feedback. Ulitmately, our primary users (account managers) and the UX team decided that the Gantt charts didn't provide any value to managing tasks. The high level track cards clearly communicated due dates, warnings, and completed tasks.</p>
+			</div>
+			<div class="row">
+				<div class="col-sm-6">
+					<p>Concept A</p>
+					<img src="assets/img/portfolio/concept1.png" alt="concept drawing wireframe option 1">
+				</div>
+				<div class="col-sm-6">
+					<p>Concept B</p>
+					<img src="assets/img/portfolio/concept2.png" alt="concept drawing wireframe option 2">
+				</div>
+			</div>
+		</section>
 
 
 	</div><!-- /container-->
