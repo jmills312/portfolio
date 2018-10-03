@@ -6,8 +6,8 @@
 			</div>
 			<div class="col-lg-4 col-lg-offset-7 col-md-5 col-md-offset-6 col-sm-7 col-sm-offset-4 col-xs-12">
 				<ul>
-					<li><a href="index.php#process">process</a></li>
-					<li><a href="index.php#portfolio">work</a></li>
+					<li><a href="index.php#two">process</a></li>
+					<li><a href="index.php#three">work</a></li>
 					<li><a href="">resume</a></li>
 					<li><a href="#four">contact</a></li>
 				</ul>

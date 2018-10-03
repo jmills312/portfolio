@@ -1,17 +1,23 @@
-<nav class="navbar-fixed-top bg">
-	<div class="container">
-		<div class="row">
-			<div class="col-xs-1">
-				<a href="index.php"><img src="assets/img/jm-logo.svg" alt="JM logo"></a>
-			</div>
-			<div class="col-lg-4 col-lg-offset-7 col-md-5 col-md-offset-6 col-sm-7 col-sm-offset-4 col-xs-12">
-				<ul>
-					<li><a href="#two">process</a></li>
-					<li><a href="#three">work</a></li>
-					<li><a href="">resume</a></li>
-					<li><a href="#four">contact</a></li>
-				</ul>
-			</div>
-		</div>
+
+
+	<nav class="navbar-fixed-top bg navbar navbar-inverse navbar-static-top" role="navigation">
+		<div class="container">
+	   <div class="navbar-header">
+		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+		  <span class="sr-only">Toggle navigation</span>
+		  <span class="icon-bar"></span>
+		  <span class="icon-bar"></span>
+		  <span class="icon-bar"></span>
+		</button>
 	</div>
-</nav>
+
+  <!-- Collect the nav links, forms, and other content for toggling -->
+  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav">
+				<li><a href="#two">Home</a></li>
+				<li><a href="#three">About</a></li>
+				<li><a href="#portfolio">Portfolio</a></li>
+				<li><a href="#contact">Contact</a></li>
+			</ul>
+		</div>
+	</nav>
