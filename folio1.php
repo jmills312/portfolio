@@ -128,7 +128,7 @@
 			</ul>
 		<div class="problem m-bottom">
 			<h3>Problem</h3>
-			<p>Conversant has a dedicated Pre-Sales Account Management team responsible for onboarding new clients. Currently the team utilizes spreadsheets, email, and phone calls to complete necessary onboarding tasks.
+			<p>Currently Conversant's presales account management team utilizes spreadsheets, email, and phone calls to complete necessary onboarding tasks for new clients.
 			</p>
 			<div class="row">
 				<div class="col-sm-6">
@@ -192,7 +192,7 @@
 			</div>
 		</div>
 
-		<section class="concepts">
+		<section class="concepts m-bottom2">
 			<div class="col-md-6 col-md-offset-3">
 				<h3>Concept Sketches</h3>
 					<p>A few different paths were explored for layouts and design. Keeping in mind the requirements (referenced above), Gantt charts (Concept A) and high level cards (Concept B) were the outcomes - providing the best hierarchy for the tracks and associated subtasks. 
@@ -202,15 +202,41 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<p>Concept A</p>
-					<img src="assets/img/portfolio/concept1.png" alt="concept drawing wireframe option 1">
+					<img class="img-responsive" src="assets/img/portfolio/concept1.png" alt="concept drawing wireframe option 1" data-aos="fade-right" data-aos-duration="550">
 				</div>
 				<div class="col-sm-6">
 					<p>Concept B</p>
-					<img src="assets/img/portfolio/concept2.png" alt="concept drawing wireframe option 2">
+					<img class="img-responsive" src="assets/img/portfolio/concept2.png" alt="concept drawing wireframe option 2" data-aos="fade-left" data-aos-duration="550">
 				</div>
 			</div>
 		</section>
-
+		<section class="prototype">
+			<div class="col-md-6 col-md-offset-3">
+				<h3>Prototype</h3>
+					<p>Using Axure, the conceptual sketch was turned into a fully functional rapid prototype to review with stakeholders. Typically, ux relies heavily on our Conversant design system (<a href="https://cui.conversantmedia.com/" target="blank">CUI</a>) for prototyping. Due to the project scope, many custom enhancements were made. In an effort to save real estate in the table, a couple of noticeable changes were made from the initial concepting phase to prototyping, including: 
+					</p>
+					<ul>
+						<li>Actions requiring file uploads (document upload/download, creative assets) were moved below the subtask name, saving real estate in the table</li>
+						<li>Add comment column was increased in size to allow for lengthier comments</li>
+						<li>AMs requested a download option which was added adjacent to the list view and calendar view</li>
+					</ul>
+					<p>Result:</p>
+			</div>
+			<div class="row m-bottom">
+				<div class="col-sm-6"><p class="remove-m">RP 1a</p><img class="img-responsive" src="assets/img/portfolio/rp1a.png" alt="calendar view" data-aos="fade-right" data-aos-duration="550">
+				</div>
+				<div class="col-sm-6"><p class="remove-m">RP 1b</p><img class="img-responsive" src="assets/img/portfolio/calendar.png" alt="calendar view" data-aos="fade-left" data-aos-duration="550">
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-12"><p class="remove-m">Final RP</p><img class="img-responsive" src="assets/img/portfolio/finalOnboardingRp.png" alt="final version rp" data-aos="fade-up" data-aos-duration="750">
+				</div>
+			</div>
+			</div>
+		</section>
+		<section class="final-ui">
+			
+		</section>
 
 	</div><!-- /container-->
 </article>

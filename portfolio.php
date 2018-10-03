@@ -20,7 +20,19 @@
 			</a><!--/col xs 12-->
 		</div><!--/row-->
 
-
+     <!-- PORTFOLIO IMAGE 1 -->
+        <div class="col-sm-6">
+            <div class="grid mask">
+            <figure>
+              <img class="img-responsive" src="assets/img/portfolio/old/folioFourteen.png" alt="PayAnywhere Redesign FAQ">
+              <figcaption>
+                <h5>Springleaf Financial Case Study</h5>
+                <a data-toggle="modal" href="#myModalOneMain" class="btn btn-primary btn-lg">Take a Look</a>
+              </figcaption><!-- /figcaption -->
+            </figure><!-- /figure -->
+            </div><!-- /grid-mask -->
+            <br>
+        </div><!-- /col -->
 
 
 	</div><!--/container-->
