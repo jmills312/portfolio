@@ -1,7 +1,7 @@
 <?php include 'doc_head.html' ?>
 
 <!-- nav -->
-<?php include 'nav.php'?>
+<?php include 'work_nav.php'?>
 <!-- top -->
 <section class="folio1" id="onboarding">
 	<div class="container">
@@ -109,7 +109,7 @@
 	</div><!--/container-->
 </section>
 <!-- main content -->
-<article class="folio1">
+<article class="folio1" data-aos="fade-up" data-aos-duration="1000">
 	<div class="container">
 		<div class="col-md-6 col-md-offset-3">
 			<h3>Role</h3>
@@ -132,10 +132,10 @@
 			</p>
 			<div class="row">
 				<div class="col-sm-6">
-					<img src="assets/img/portfolio/xls.svg" alt="xls doc">
+					<img src="assets/img/portfolio/xls.svg" alt="xls doc" data-aos="fade-right" data-aos-duration="1000">
 				</div>
 				<div class="col-sm-6">
-					<img src="assets/img/portfolio/phone.svg" alt="Phone">
+					<img src="assets/img/portfolio/phone.svg" alt="Phone" data-aos="fade-left" data-aos-duration="1000">
 				</div>
 			</div><!--/row -->
 		</div><!--/problem-->
@@ -184,11 +184,11 @@
 		<div class="row">
 			<div class="col-sm-10 col-sm-offset-1">
 				<p class="flow-heading">1.0 Onboarding</p>
-				<img class="flowchart" src="assets/img/portfolio/am-flowchart1.svg" alt="onboarding flowchart">
+				<img class="flowchart" src="assets/img/portfolio/am-flowchart1.svg" alt="onboarding flowchart" data-aos="zoom-in" data-aos-duration="1000">
 				<p class="flow-heading">1.1 Subtasks</p>
-				<img class="flowchart" src="assets/img/portfolio/am-flowchart2.svg" alt="onboarding flowchart">
+				<img class="flowchart" src="assets/img/portfolio/am-flowchart2.svg" alt="onboarding flowchart" data-aos="zoom-in" data-aos-duration="1000">
 				<p class="flow-heading">1.2 Track Updates</p>
-				<img class="flowchart" src="assets/img/portfolio/am-flowchart3.svg" alt="onboarding flowchart">
+				<img class="flowchart" src="assets/img/portfolio/am-flowchart3.svg" alt="onboarding flowchart" data-aos="zoom-in" data-aos-duration="1000">
 			</div>
 		</div>
 

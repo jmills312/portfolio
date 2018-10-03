@@ -276,6 +276,7 @@ nav ul li a:hover {
 }
 .main .task_two, .task_three, .task_four {
   background: #ccc;
+  opacity: .6;
 }
 .main .check {
   margin-left: 12px;
