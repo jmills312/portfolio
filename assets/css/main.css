@@ -220,17 +220,21 @@ nav ul li a:hover {
 }
 .folio {
   background: radial-gradient(#F8F8F8, #F9F9F9);
-  min-height: 750px;
   text-align: center;
 }
 .folio-items:hover {
-  box-shadow: 0 10px 20px rgba(56,56,56,.3);
+  box-shadow: 0 3px 10px 1px rgba(117,117,117,.2);
+}
+.folio1 {
+  min-height: 750px;
 }
 .folio img {
-  max-width: 85%;
   -moz-transition: all 0.6s;
   -webkit-transition: all 0.6s;
   transition: all 0.6s;
+}
+.folio1 img {
+  max-width: 85%;
   padding: 20px;
 }
 .folio:hover img {
@@ -314,6 +318,10 @@ nav ul li a:hover {
   font-size: 48px;
   vertical-align: text-bottom;
   margin-bottom: 45px;
+}
+/** Folio 2 **/ 
+.springleaf-mocks {
+  padding: 0;
 }
 /** Task line svg **/ 
 .task_line {
@@ -446,6 +454,10 @@ animation-delay: 2s;
 .flow-heading {
   font-size: 13px !important;
   margin-bottom: 4px !important;
+}
+/* folio 2 */ 
+.onboarding-dash {
+  margin-left: -30px;
 }
 /*-----------------------------------*/
 /*          MEDIA QUERIES            */
