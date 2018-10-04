@@ -16,23 +16,18 @@
 			<a href="folio1.php">
 				<div class="col-xs-12 folio">
 					<img src="assets/img/portfolio/onboarding-imac.png" alt="onboarding dasboard" >
-				</div>
-			</a><!--/col xs 12-->
+				</div><!--/col xs 12-->
+			</a>
 		</div><!--/row-->
 
-     <!-- PORTFOLIO IMAGE 1 -->
-        <div class="col-sm-6">
-            <div class="grid mask">
-            <figure>
-              <img class="img-responsive" src="assets/img/portfolio/old/folioFourteen.png" alt="PayAnywhere Redesign FAQ">
-              <figcaption>
-                <h5>Springleaf Financial Case Study</h5>
-                <a data-toggle="modal" href="#myModalOneMain" class="btn btn-primary btn-lg">Take a Look</a>
-              </figcaption><!-- /figcaption -->
-            </figure><!-- /figure -->
-            </div><!-- /grid-mask -->
-            <br>
-        </div><!-- /col -->
+		<!-- portfolio items -->
+		<div class="row " data-aos="fade-left" data-aos-duration="1000">
+			<div class="col-sm-12">
+				<img  class="img-responsive" src="assets/img/portfolio/sl-case-study.png" alt="onboarding dasboard" >
+			</div>
+
+		</div><!--/row-->
+
 
 
 	</div><!--/container-->

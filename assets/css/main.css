@@ -62,6 +62,9 @@ h2 {
 .m-bottom2 {
   margin-bottom: 45px;
 }
+.m-bottom {
+  margin-bottom: 75px;
+}
 .remove-m {
   margin-bottom: 0 !important;
 }

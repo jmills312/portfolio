@@ -158,7 +158,7 @@
 	<div class="col-md-12">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
-				<p class="remove-m">Example of high level task (Online Integration) with associated sub-tasks:</p>
+				<p class="remove-m">Example of high level track (Online Integration), with associated subtasks:</p>
 			</div>
 		</div><!--/row-->
 		<div class="row">
@@ -211,32 +211,34 @@
 			</div>
 		</section>
 		<section class="prototype">
-			<div class="col-md-6 col-md-offset-3">
-				<h3>Prototype</h3>
-					<p>Using Axure, the conceptual sketch was turned into a fully functional rapid prototype to review with stakeholders. Typically, ux relies heavily on our Conversant design system (<a href="https://cui.conversantmedia.com/" target="blank">CUI</a>) for prototyping. Due to the project scope, many custom enhancements were made. In an effort to save real estate in the table, a couple of noticeable changes were made from the initial concepting phase to prototyping, including: 
-					</p>
-					<ul>
-						<li>Actions requiring file uploads (document upload/download, creative assets) were moved below the subtask name, saving real estate in the table</li>
-						<li>Add comment column was increased in size to allow for lengthier comments</li>
-						<li>AMs requested a download option which was added adjacent to the list view and calendar view</li>
-					</ul>
-					<p>Result:</p>
-			</div>
+			<div class="row">
+				<div class="col-md-6 col-md-offset-3">
+					<h3>Prototype</h3>
+						<p>Using Axure, the conceptual sketch was turned into a fully functional rapid prototype to review with stakeholders. Typically, ux relies heavily on our Conversant design system (<a href="https://cui.conversantmedia.com/" target="blank">CUI</a>) for prototyping. </p>
+						<p>Due to the project scope, many custom ui enhancements were created. In an effort to save real estate in the table, a couple of noticeable changes were made from the initial concepting phase to prototyping, including: 
+						</p>
+						<ul>
+							<li>Actions requiring file uploads (document upload/download, creative assets) were moved below the subtask name, saving real estate in the table</li>
+							<li>Add comment column was increased in size to allow for lengthier comments</li>
+							<li>AMs requested a download option which was added adjacent to the list view and calendar view</li>
+						</ul>
+						<p>Result:</p>
+					</div>
+				</div>
+
 			<div class="row m-bottom">
 				<div class="col-sm-6"><p class="remove-m">RP 1a</p><img class="img-responsive" src="assets/img/portfolio/rp1a.png" alt="calendar view" data-aos="fade-right" data-aos-duration="550">
 				</div>
 				<div class="col-sm-6"><p class="remove-m">RP 1b</p><img class="img-responsive" src="assets/img/portfolio/calendar.png" alt="calendar view" data-aos="fade-left" data-aos-duration="550">
 				</div>
 			</div>
-			<div class="row">
+			<div class="row m-bottom">
 				<div class="col-sm-12"><p class="remove-m">Final RP</p><img class="img-responsive" src="assets/img/portfolio/finalOnboardingRp.png" alt="final version rp" data-aos="fade-up" data-aos-duration="750">
 				</div>
 			</div>
 			</div>
 		</section>
-		<section class="final-ui">
-			
-		</section>
+
 
 	</div><!-- /container-->
 </article>
