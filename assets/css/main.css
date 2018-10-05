@@ -242,10 +242,6 @@ nav ul li a:hover {
   -webkit-transition: all 0.6s;
   transition: all 0.6s;
 }
-.folio1 img {
-  max-width: 85%;
-  padding: 20px;
-}
 .folio:hover img {
   -moz-transform: scale(1.008);
   -webkit-transform: scale(1.008);
