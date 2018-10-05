@@ -228,6 +228,9 @@ nav ul li a:hover {
   background: radial-gradient(#F8F8F8, #F9F9F9);
   text-align: center;
 }
+.folio-small {
+  max-width: 98%;
+}
 .folio-items:hover {
   box-shadow: 0 1px 4px 1px rgba(117,117,117,.2);
 }
@@ -247,6 +250,7 @@ nav ul li a:hover {
   -moz-transform: scale(1.008);
   -webkit-transform: scale(1.008);
   transform: scale(1.008);
+  opacity: .9;
 }
 /* folio 1 */
 .dashboard {

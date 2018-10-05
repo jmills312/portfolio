@@ -23,10 +23,13 @@
 		</div><!--/row-->
 		<!-- portfolio items -->
 		<div class="row m-bottom2" >
-			<div class="col-sm-6 springleaf-mocks folio" data-aos="fade-right" data-aos-duration="1000">
+			<div class="col-sm-12 springleaf-mocks folio" data-aos="fade-right" data-aos-duration="1000">
 				<img  class="img-responsive" src="assets/img/portfolio/sl-case-study.png" alt="springleaf concepts" >
 			</div>
-			<div class="col-sm-6 folio" data-aos="fade-left" data-aos-duration="1000">	<img class="img-responsive" src="assets/img/portfolio/OLD/folioThirteen.png">
+		</div>
+			<div class="row m-bottom2">
+				<div class="col-sm-12 folio " data-aos="fade-left" data-aos-duration="1000"><img class="img-responsive" src="assets/img/portfolio/reporting-app-iso.png" alt="onemain reporting app">
+				</div>
 			</div>
 
 
