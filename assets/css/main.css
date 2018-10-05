@@ -482,6 +482,25 @@ footer {
   background: #000;
   color: #fff;
 }
+footer .glyphicon {
+  font-size: 21px;
+  color: #f8f8f8;
+  border: 1px solid #f8f8f8;
+  border-radius: 50%; 
+  padding: 15px;
+}
+.social {
+  color: #f8f8f8;
+  border: 1px solid #f8f8f8;
+  border-radius: 50%; 
+}
+footer a:hover {
+  color: #000;
+  -webkit-transition: background .3s ease-in-out;
+  -moz-transition: background .3s ease-in-out;
+  -o-transition: background .3s ease-in-out;
+  transition: background .3s ease-in-out;
+}
 /*-----------------------------------*/
 /*          MEDIA QUERIES            */
 /*-----------------------------------*/
