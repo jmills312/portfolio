@@ -23,8 +23,10 @@
 <?php include 'process.php' ?>
 <!-- portfolio -->
 <?php include 'portfolio.php' ?>
-
-
+<!-- Brands -->
+<?php include 'brands.php' ?>
+<!-- footer -->
+<?php include 'footer.php' ?>
 
 
 <!-- custom js -->

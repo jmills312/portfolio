@@ -28,6 +28,10 @@ h2 {
   padding-top: 45px;
   text-transform: uppercase;
 }
+span.small {
+  font-size: 12px;
+  color: #888;
+}
 /* TOP */ 
 #top {
 	padding-top: 115px;
@@ -210,7 +214,9 @@ nav ul li a:hover {
   width: 60px;
   height: 60px;
 }
-/* PORTFOLIO */
+/*-----------------------------------*/
+/*            Porftolio              */
+/*-----------------------------------*/
 * {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -223,7 +229,7 @@ nav ul li a:hover {
   text-align: center;
 }
 .folio-items:hover {
-  box-shadow: 0 3px 10px 1px rgba(117,117,117,.2);
+  box-shadow: 0 1px 4px 1px rgba(117,117,117,.2);
 }
 .folio1 {
   min-height: 750px;
@@ -238,9 +244,9 @@ nav ul li a:hover {
   padding: 20px;
 }
 .folio:hover img {
-  -moz-transform: scale(1.01);
-  -webkit-transform: scale(1.01);
-  transform: scale(1.01);
+  -moz-transform: scale(1.008);
+  -webkit-transform: scale(1.008);
+  transform: scale(1.008);
 }
 /* folio 1 */
 .dashboard {
@@ -459,6 +465,23 @@ animation-delay: 2s;
 .onboarding-dash {
   margin-left: -30px;
 }
+footer .brands {
+  background: #f8f8f8;
+  min-height: 55px;
+  padding: 12px 0;
+}
+.brands-row {
+  padding: 20px;
+}
+.brands .small {
+  margin-top: 12px;
+  display: inline-block;
+}
+footer {
+  min-height: 350px;
+  background: #000;
+  color: #fff;
+}
 /*-----------------------------------*/
 /*          MEDIA QUERIES            */
 /*-----------------------------------*/
@@ -493,7 +516,6 @@ animation-delay: 2s;
     color: #fff;
   }
 }
-
 
 
 

@@ -3,7 +3,7 @@
 <!-- nav -->
 <?php include 'work_nav.php'?>
 <!-- top -->
-<section class="folio1" id="onboarding">
+<section  id="onboarding">
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12">
@@ -112,6 +112,7 @@
 <article class="folio1" data-aos="fade-up" data-aos-duration="1000">
 	<div class="container">
 		<div class="col-md-6 col-md-offset-3">
+			<p>Duration: 2 weeks</p>
 			<h3>Role</h3>
 			<p>As the lead UX Architect and Designer I was involved with all stages of the project - concept through hi-fi mocks (delivered by UI team). This included attending the kickoff meeting to understand the project at a high level, initial requirement gathering stages, research, and design phase. 
 			</p>
@@ -126,6 +127,7 @@
 				<li>To provide clients with standardized information sharing among their team.  This will decrease miscommunication during onboarding</li>
 				<li>To provide account management with single point of reference for communicating launch timing, thereby eliminating miscommunication with the client and internal teams </li>
 			</ul>
+
 		<div class="problem m-bottom">
 			<h3>Problem</h3>
 			<p>Currently Conversant's presales account management team utilizes spreadsheets, email, and phone calls to complete necessary onboarding tasks for new clients.
@@ -197,7 +199,7 @@
 				<h3>Concept Sketches</h3>
 					<p>A few different paths were explored for layouts and design. Keeping in mind the requirements (referenced above), Gantt charts (Concept A) and high level cards (Concept B) were the outcomes - providing the best hierarchy for the tracks and associated subtasks. 
 					</p>
-					<p>Option B was the winner based on our primary users feedback. Ulitmately, our primary users (account managers) and the UX team decided that the Gantt charts didn't provide any value to managing tasks. The high level track cards clearly communicated due dates, warnings, and completed tasks.</p>
+					<p> Concept B was the winner based on our primary users feedback. Ulitmately, our primary users (account managers) and the UX team decided that the Gantt charts didn't provide any value to managing tasks. The high level track cards clearly communicated due dates, warnings, and completed tasks.</p>
 			</div>
 			<div class="row">
 				<div class="col-sm-6">
@@ -245,6 +247,7 @@
 
 
 
-
+<!-- footer -->
+<?php include 'footer.php' ?>
 <!-- custom js -->
 <?php include 'custom.js'?>
