@@ -465,7 +465,7 @@ animation-delay: 2s;
 .onboarding-dash {
   margin-left: -30px;
 }
-footer .brands {
+.brands {
   background: #f8f8f8;
   min-height: 55px;
   padding: 12px 0;
@@ -473,21 +473,22 @@ footer .brands {
 .brands-row {
   padding: 20px;
 }
-.brands .small {
-  margin-top: 12px;
-  display: inline-block;
-}
 footer {
-  min-height: 350px;
   background: #000;
   color: #fff;
 }
-footer .glyphicon {
-  font-size: 21px;
+footer .glyphicon, .fab {
   color: #f8f8f8;
   border: 1px solid #f8f8f8;
-  border-radius: 50%; 
-  padding: 15px;
+  border-radius: 60px; 
+  padding: 12px;
+}
+.fab {
+  width: 52px;
+  height: 52px;
+}
+footer .glyphicon {
+  font-size: 25px;
 }
 .social {
   color: #f8f8f8;
@@ -500,6 +501,27 @@ footer a:hover {
   -moz-transition: background .3s ease-in-out;
   -o-transition: background .3s ease-in-out;
   transition: background .3s ease-in-out;
+}
+.fa {
+  padding: 4px;
+  width: 200px;
+}
+.fa::before {
+  display: inline-block;
+  /* .fa-fw */
+  width: 1.28571429em;
+  text-align: center;
+}
+.fa::after {
+  content: attr(class);
+  font-family: consolas, monospace;
+  font-size: 15px;
+  /* BS - code */
+  padding: 2px 4px;
+  color: #c7254e;
+  background-color: #f9f2f4;
+  border-radius: 4px;
+  margin-left: 5px;
 }
 /*-----------------------------------*/
 /*          MEDIA QUERIES            */
