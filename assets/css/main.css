@@ -470,6 +470,9 @@ animation-delay: 2s;
   min-height: 55px;
   padding: 12px 0;
 }
+.brands-row p {
+  margin-top: 4px;
+}
 .brands-row {
   padding: 20px;
 }
@@ -502,6 +505,11 @@ footer a:hover {
   -o-transition: background .3s ease-in-out;
   transition: background .3s ease-in-out;
 }
+footer .copy {
+  font-size: 11px;
+  margin-bottom: 12px;
+}
+
 .fa {
   padding: 4px;
   width: 200px;

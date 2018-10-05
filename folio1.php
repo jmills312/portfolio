@@ -169,13 +169,19 @@
 			</div>
 		</div>
 
-		<div class="row">
+		<div class="row m-bottom">
 			<div class="col-md-6 col-md-offset-3">
 				<h3>Competitive Analysis</h3>
 				<p>The name “Dashboard” was misleading,  as our goal was to design a task management system tailored to the AM teams needs. A dashboard typically provides data visualization for KPIs.
 				</p>
-				<p>Consequently, I focused my research on task oriented features found in project management systems, such as <a href="http://www.asana.com" target="blank">Asana</a> and <a href="http://www.trello.com" target="blank">Trello</a>.
+				<p>Consequently, I focused my research on task oriented features found in project management systems, such as <a href="http://www.asana.com" target="blank">Asana</a> and <a href="http://www.trello.com" target="blank">Trello</a>. After my analysis, we incorporated the following important characteristics from competitive systems:
 				</p>
+				<ul>
+					<li>Ensure all ancillary information for subtasks is easy to find - <span class="small">we used valuable real estate in the name column to display the associated documents and assets.</span></li>
+					<li>Clearly display due dates for high level tracks - <span class="small">we displayed due dates at a high level in the cards.</span></li>
+					<li>Feedback to users is crucial, since tasks are deadline driven - <span class="small"> we incorporated status badges at a high level and task level.</span></li>
+					<li>Edit with ease - <span class="small"> we utilized an inline editing feature found in other sections in Conversant Access to allow for easy editing of dates</span></li>
+				</ul>
 			</div><!-- col md 6-->
 		</div>
 
@@ -216,22 +222,24 @@
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3">
 					<h3>Prototype</h3>
-						<p>Using Axure, the conceptual sketch was turned into a fully functional rapid prototype to review with stakeholders. Typically, ux relies heavily on our Conversant design system (<a href="https://cui.conversantmedia.com/" target="blank">CUI</a>) for prototyping. </p>
-						<p>Due to the project scope, many custom ui enhancements were created. In an effort to save real estate in the table, a couple of noticeable changes were made from the initial concepting phase to prototyping, including: 
+						<p>Using Axure, the conceptual sketch was turned into a fully functional rapid prototype to review with stakeholders. Due to the uniqueness of this project, ux wasn't able to utilize a lot of components in our Conversant design system (<a href="https://cui.conversantmedia.com/" target="blank">CUI</a>) -- used for a majority of project solutions </p>
+						<p>Some of the more noticeable changes from the initial whiteboarding sessions and sketches were: 
 						</p>
-						<ul>
-							<li>Actions requiring file uploads (document upload/download, creative assets) were moved below the subtask name, saving real estate in the table</li>
+						<ul class="m-bottom">
+							<li>Actions requiring file uploads (document upload/download, creative assets) were moved below the subtask name, providing more real estate for the comments column</li>
 							<li>Add comment column was increased in size to allow for lengthier comments</li>
-							<li>AMs requested a download option which was added adjacent to the list view and calendar view</li>
+							<li>AMs requested a download option to view all of the tasks in an Excel doc --  this was added adjacent to the list view and calendar view</li>
 						</ul>
 						<p>Result:</p>
 					</div>
 				</div>
 
 			<div class="row m-bottom">
-				<div class="col-sm-6"><p class="remove-m">RP 1a</p><img class="img-responsive" src="assets/img/portfolio/rp1a.png" alt="calendar view" data-aos="fade-right" data-aos-duration="550">
+				<div class="col-sm-4"><p class="remove-m">RP 1 <span class="small">Gantt chart</span></p><img class="img-responsive" src="assets/img/portfolio/rp2.png" alt="rapid prototype concept 3" data-aos="fade-right" data-aos-duration="550">
 				</div>
-				<div class="col-sm-6"><p class="remove-m">RP 1b</p><img class="img-responsive" src="assets/img/portfolio/calendar.png" alt="calendar view" data-aos="fade-left" data-aos-duration="550">
+				<div class="col-sm-4"><p class="remove-m">RP 2a <span class="small">Card approach (Winner!)</span></p><img class="img-responsive" src="assets/img/portfolio/rp1a.png" alt="calendar view" data-aos="fade-right" data-aos-duration="550">
+				</div>
+				<div class="col-sm-4"><p class="remove-m">RP 2b <span class="small">Calendar view</span</p><img class="img-responsive" src="assets/img/portfolio/calendar.png" alt="calendar view" data-aos="fade-left" data-aos-duration="550">
 				</div>
 			</div>
 			<div class="row m-bottom">
