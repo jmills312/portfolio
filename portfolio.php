@@ -16,7 +16,7 @@
 			<a href="folio1.php">	
 				<div class="col-xs-12 folio folio1">
 					<figure>
-						<img class="img-responsive onboard-dash" src="assets/img/imac.png" alt="onboarding dasboard" >
+						<img class="img-responsive onboard-dash" src="assets/img/onboarding-dash.png" alt="onboarding dasboard" >
 					</figure>
 				</div><!--/col xs 12-->
 			</a>
