@@ -55,7 +55,7 @@
     event.preventDefault();
     $('html, body').animate({
     scrollTop: target.offset().top -45,
-    }, 1000, function() {
+    }, 1400, function() {
 
       });
     }

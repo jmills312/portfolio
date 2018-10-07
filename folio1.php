@@ -172,15 +172,16 @@
 		<div class="row m-bottom">
 			<div class="col-md-6 col-md-offset-3">
 				<h3>Competitive Analysis</h3>
-				<p>The name “Dashboard” was misleading,  as our goal was to design a task management system tailored to the AM teams needs. A dashboard typically provides data visualization for KPIs.
+				<p>The name “Dashboard” was misleading,  as our goal was to design a task management system - tailored to the account managers needs. A dashboard typically provides data visualization for KPIs.
 				</p>
-				<p>Consequently, I focused my research on task oriented features found in project management systems, such as <a href="http://www.asana.com" target="blank">Asana</a> and <a href="http://www.trello.com" target="blank">Trello</a>. After my analysis, we incorporated the following important characteristics from competitive systems:
+				<p>Consequently, I focused my research on task oriented features found in project management systems, such as <a href="http://www.asana.com" target="blank">Asana</a> and <a href="http://www.trello.com" target="blank">Trello</a>. After my analysis, we incorporated the following features from competitive systems:
 				</p>
 				<ul>
 					<li>Ensure all ancillary information for subtasks is easy to find - <span class="small">we used valuable real estate in the name column to display the associated documents and assets.</span></li>
-					<li>Clearly display due dates for high level tracks - <span class="small">we displayed due dates at a high level in the cards.</span></li>
-					<li>Feedback to users is crucial, since tasks are deadline driven - <span class="small"> we incorporated status badges at a high level and task level.</span></li>
-					<li>Edit with ease - <span class="small"> we utilized an inline editing feature found in other sections in Conversant Access to allow for easy editing of dates</span></li>
+					<li>Clearly display due dates for high level tracks - <span class="small">we displayed due dates prominently in the high level track cards.</span></li>
+					<li>Feedback to users is crucial, since tasks are deadline driven - <span class="small"> we incorporated status badges at a high level and task level. Also, utilizing Conversant's notification system will ensure account managers receive real time updates when a client sends a message or uploads files. Client users will receive an email notification. </span></li>
+					<li>Edit with ease - <span class="small"> we utilized an inline editing feature found in other sections in Conversant Access to allow for easy editing of dates.</span></li>
+					
 				</ul>
 			</div><!-- col md 6-->
 		</div>
@@ -235,7 +236,7 @@
 				</div>
 
 			<div class="row m-bottom">
-				<div class="col-sm-4"><p class="remove-m">RP 1 <span class="small">Gantt chart</span></p><img class="img-responsive" src="assets/img/portfolio/rp2.png" alt="rapid prototype concept 3" data-aos="fade-right" data-aos-duration="550">
+				<div class="col-sm-4"><p class="remove-m">RP 1 <span class="small">Gantt chart</span></p><img class="img-responsive" src="assets/img/portfolio/rp2.png" data-aos="fade-right" data-aos-duration="550" alt="rapid prototype concept 3">
 				</div>
 				<div class="col-sm-4"><p class="remove-m">RP 2a <span class="small">Card approach (Winner!)</span></p><img class="img-responsive" src="assets/img/portfolio/rp1a.png" alt="calendar view" data-aos="fade-right" data-aos-duration="550">
 				</div>
