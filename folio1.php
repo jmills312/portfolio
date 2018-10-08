@@ -236,11 +236,11 @@
 				</div>
 
 			<div class="row m-bottom">
-				<div class="col-sm-4"><p class="remove-m">RP 1 <span class="small">Gantt chart</span></p><img class="img-responsive" src="assets/img/portfolio/rp2.png" data-aos="fade-right" data-aos-duration="550" alt="rapid prototype concept 3">
+				<div class="col-sm-4" data-aos="fade-right" data-aos-duration="550"><p class="remove-m">RP 1 <span class="small">Gantt chart</span></p><img class="img-responsive" src="assets/img/portfolio/rp2.png" alt="rapid prototype concept 3">
 				</div>
-				<div class="col-sm-4"><p class="remove-m">RP 2a <span class="small">Card approach (Winner!)</span></p><img class="img-responsive" src="assets/img/portfolio/rp1a.png" alt="calendar view" data-aos="fade-right" data-aos-duration="550">
+				<div class="col-sm-4" data-aos="fade-right" data-aos-duration="550"><p class="remove-m">RP 2a <span class="small">Card approach (Winner!)</span></p><img class="img-responsive" src="assets/img/portfolio/rp1a.png" alt="calendar view">
 				</div>
-				<div class="col-sm-4"><p class="remove-m">RP 2b <span class="small">Calendar view</span</p><img class="img-responsive" src="assets/img/portfolio/calendar.png" alt="calendar view" data-aos="fade-left" data-aos-duration="550">
+				<div class="col-sm-4" data-aos="fade-left" data-aos-duration="550"><p class="remove-m">RP 2b <span class="small">Calendar view</span</p><img class="img-responsive" src="assets/img/portfolio/calendar.png" alt="calendar view">
 				</div>
 			</div>
 			<div class="row m-bottom">

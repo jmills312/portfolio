@@ -22,10 +22,37 @@
 			</a>
 		</div><!--/row-->
 		<div class="row m-bottom2">
-			<div class="col-sm-12 folio" data-aos="fade-left" data-aos-duration="1000">
+			<a data-target="#myModal" data-toggle="modal">
+				<div class="col-sm-12 folio" data-aos="fade-left" data-aos-duration="1000">
 				<img class="img-responsive" src="assets/img/saveup-dash.png" alt="saveup ios app">
-			</div>
+				</div>
+			</a>	
 		</div>
+
+		<!-- Modal -->
+		<div tabindex="-1" class="modal fade" id="myModal" role="dialog" aria-hidden="true" aria-labelledby="myModalLabel">
+		  <div class="modal-dialog">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button class="close" aria-hidden="true" type="button" data-dismiss="modal">×</button>
+		        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+		      </div>
+		      <div class="modal-body">
+		        ...
+		      </div>
+		      <div class="modal-footer">
+		        <button class="btn btn-default" type="button" data-dismiss="modal">Close</button>
+		        <button class="btn btn-primary" type="button">Save changes</button>
+		      </div>
+		    </div><!-- /.modal-content -->
+		  </div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+
+
+
+
+
+		
 		<div class="row m-bottom2" >
 			<div class="col-sm-12 springleaf-mocks folio" data-aos="fade-right" data-aos-duration="1000">
 				<img  class="img-responsive" src="assets/img/portfolio/sl-case-study.png" alt="springleaf concepts" >
