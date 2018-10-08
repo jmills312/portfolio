@@ -114,9 +114,9 @@
 		<div class="col-md-6 col-md-offset-3">
 			<p>Duration: 2 weeks</p>
 			<h3>Role</h3>
-			<p>As the lead UX Architect and Designer I was involved with all stages of the project - concept through hi-fi mocks (delivered by UI team). This included attending the kickoff meeting to understand the project at a high level, initial requirement gathering stages, research, and design phase. 
+			<p>As the UX lead for this project, I was involved with all stages - concept through hi-fi mocks (delivered by UI team). This included attending the kickoff meeting to understand the project at a high level with key stakeholders (business and operations). Followed by the initial requirements gathering, research, and design phases. 
 			</p>
-			<p>I worked directly with key stakeholders through the requirements gathering stage and research phase. The lead AM for the presales team was my main point of contact. She  worked  with me to understand their workflow, challenges, and goals of the project. Technical questions and concerns were run through the product manager.
+			<p> The lead account manager for the presales team was my main point of contact on the operations side. She  worked  with me to understand their workflow, challenges, and what a win would look like. Technical questions and concerns were run through the product manager.
 			</p>
 
 		<h3>Project Goals</h3>
@@ -142,7 +142,7 @@
 			</div><!--/row -->
 		</div><!--/problem-->
 		<div class="row pain-points m-bottom">	
-			<div class="col-md-5">
+			<div class="col-md-5" data-aos="fade-right" data-aos-duration="500">
 				<h3>Pain Points</h3>			
 				<img class="m-bottom" src="assets/img/portfolio/onboard_user.svg" alt="onboarding user">
 			</div><!--/col sm 5-->
@@ -165,7 +165,7 @@
 		</div><!--/row-->
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
-				<img class="task-list m-bottom2" src="assets/img/portfolio/example_tasks.png" alt="sample task list">
+				<img class="task-list m-bottom2" src="assets/img/portfolio/example_tasks.png" alt="sample task list" data-aos="fade-left" data-aos-duration="500">
 			</div>
 		</div>
 
@@ -206,7 +206,7 @@
 				<h3>Concept Sketches</h3>
 					<p>A few different paths were explored for layouts and design. Keeping in mind the requirements (referenced above), Gantt charts (Concept A) and high level cards (Concept B) were the outcomes - providing the best hierarchy for the tracks and associated subtasks. 
 					</p>
-					<p> Concept B was the winner based on our primary users feedback. Ulitmately, our primary users (account managers) and the UX team decided that the Gantt charts didn't provide any value to managing tasks. The high level track cards clearly communicated due dates, warnings, and completed tasks.</p>
+					<p> Concept B was the winner based on our primary users feedback. Ulitmately, our primary users (account managers) and the UX team concluded that the Gantt charts didn't provide any value to managing tasks. The high level track cards were more effective at communicating due dates, warnings, and completed tasks.</p>
 			</div>
 			<div class="row">
 				<div class="col-sm-6">
@@ -223,7 +223,7 @@
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3">
 					<h3>Prototype</h3>
-						<p>Using Axure, the conceptual sketch was turned into a fully functional rapid prototype to review with stakeholders. Due to the uniqueness of this project, ux wasn't able to utilize a lot of components in our Conversant design system (<a href="https://cui.conversantmedia.com/" target="blank">CUI</a>) -- used for a majority of project solutions </p>
+						<p>Using Axure, the conceptual sketch was turned into a fully functional rapid prototype to review with stakeholders. Due to the uniqueness of this project, we weren't able to utilize many existing components in our Conversant design system (<a href="https://cui.conversantmedia.com/" target="blank">CUI</a>) -- used for a majority of projects. </p>
 						<p>Some of the more noticeable changes from the initial whiteboarding sessions and sketches were: 
 						</p>
 						<ul class="m-bottom">
@@ -236,15 +236,15 @@
 				</div>
 
 			<div class="row m-bottom">
-				<div class="col-sm-4" data-aos="fade-right" data-aos-duration="550"><p class="remove-m">RP 1 <span class="small">Gantt chart</span></p><img class="img-responsive" src="assets/img/portfolio/rp2.png" alt="rapid prototype concept 3">
+				<div class="col-sm-4"><p class="remove-m">RP 1 <span class="small">Gantt chart</span></p><img class="img-responsive" src="assets/img/portfolio/rp2.png" alt="rapid prototype concept 3" data-aos="fade-right" data-aos-duration="575">
 				</div>
-				<div class="col-sm-4" data-aos="fade-right" data-aos-duration="550"><p class="remove-m">RP 2a <span class="small">Card approach (Winner!)</span></p><img class="img-responsive" src="assets/img/portfolio/rp1a.png" alt="calendar view">
+				<div class="col-sm-4"><p class="remove-m">RP 2a <span class="small">Card approach (Winner!)</span></p><img class="img-responsive" src="assets/img/portfolio/rp1a.png" alt="calendar view" data-aos="fade-right" data-aos-duration="550">
 				</div>
 				<div class="col-sm-4" data-aos="fade-left" data-aos-duration="550"><p class="remove-m">RP 2b <span class="small">Calendar view</span</p><img class="img-responsive" src="assets/img/portfolio/calendar.png" alt="calendar view">
 				</div>
 			</div>
 			<div class="row m-bottom">
-				<div class="col-sm-12"><p class="remove-m">Final RP</p><img class="img-responsive" src="assets/img/portfolio/finalOnboardingRp.png" alt="final version rp" data-aos="fade-up" data-aos-duration="750">
+				<div class="col-sm-12"><p class="remove-m">Final RP</p><img class="img-responsive" src="assets/img/portfolio/finalOnboardingRp.png" alt="final version rp" data-aos="fade-up" data-aos-duration="700">
 				</div>
 			</div>
 			</div>

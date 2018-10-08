@@ -16,7 +16,7 @@
 			<a href="folio1.php">	
 				<div class="col-xs-12 folio folio1">
 					<figure>
-						<img class="img-responsive onboard-dash" src="assets/img/onboarding-dash.png" alt="onboarding dasboard" >
+						<img class="img-responsive onboard-dash" src="assets/img/onboarding-dash2.png" alt="onboarding dasboard" >
 					</figure>
 				</div><!--/col xs 12-->
 			</a>
@@ -35,14 +35,56 @@
 		    <div class="modal-content">
 		      <div class="modal-header">
 		        <button class="close" aria-hidden="true" type="button" data-dismiss="modal">×</button>
-		        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+		        <h4 class="modal-title" id="myModalLabel">SaveUp</h4>
 		      </div>
 		      <div class="modal-body">
-		        ...
+		      	<div class="container-fluid">
+
+
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-12">
+		      				<img class="img-responsive" src="assets/img/portfolio/modal/saveup.png" alt="saveup screens">
+		      			</div>
+		      		</div>
+
+
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-3">
+		        			<h5>Role</h5>
+		        			<p>UI/UX & Art Direction</p>
+		        		</div>
+		      			<div class="col-sm-3">
+		        			<h5>Technologies</h5>
+		        			<p>Sketch, InVision, AI, PS</p>
+		        		</div>
+								<div class="col-sm-3">
+									<h5>Timeline</h5>
+									<p>9 months</p>
+								</div>
+		      		</div>
+
+
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-9">
+		      				<p><span class="bold-inline">Background:</span> SaveUp was a financial app whose mission was to incentivize saving. The business model utilized a gamification approach - users enter their banking information, earn pionts through saving money (banking and 401k), and use the points to win prizes. </p>
+		      				<p>The ecosystem was alread in place when our team inherited the redesign and build. </p>
+		      			</div>
+		      		</div>
+
+
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-9">
+		      				<p><span class="bold-inline">Role:</span> As the lead UI/UX designer I was responsible for the redesign of the iOS, Android, and web application. Using one week sprints, I worked closely with the engineering team to roll out an mvp for iOS and Android.  
+		      			</div>
+		      		</div>
+
+
+
+
+		      	</div>
 		      </div>
 		      <div class="modal-footer">
-		        <button class="btn btn-default" type="button" data-dismiss="modal">Close</button>
-		        <button class="btn btn-primary" type="button">Save changes</button>
+		        <button class="btn btn-modal" type="button" data-dismiss="modal">Close</button>
 		      </div>
 		    </div><!-- /.modal-content -->
 		  </div><!-- /.modal-dialog -->
@@ -66,9 +108,6 @@
 
 	</div><!--/container-->
 </section><!--/ portfolio -->
-
-
-
 
 
 
