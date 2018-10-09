@@ -18,7 +18,7 @@
 				<ul class="nav navbar-nav">
 					<li><a href="#process">Process</a></li>
 					<li><a href="#portfolio">Work</a></li>
-					<li><a href="/resume.pdf">Resume</a></li>
+					<li><a href="resume.pdf" target="blank">Resume</a></li>
 					<li><a href="#contact">Contact</a></li>
 				</ul>
 			</div>

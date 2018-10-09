@@ -236,7 +236,19 @@ nav ul li a:hover {
 .modal-dialog .close {
   font-size: 24px;
   color: #fefefe;
+}.modal ul li {
+  font-size: 14px;
+  list-style: square;
+  margin-left: 25px;
+  color: #333;
 }
+.modal .col-sm-2 {
+  margin-bottom: 15px;
+}
+.modal p, h5 {
+  margin-bottom: 8px;
+}
+
 /*-----------------------------------*/
 /*            Porftolio              */
 /*-----------------------------------*/
@@ -250,7 +262,6 @@ nav ul li a:hover {
 .folio {
   background: radial-gradient(#F8F8F8, #F9F9F9);
   text-align: center;
-  min-height: 725px;
 }
 .folio-small {
   max-width: 98%;
@@ -564,8 +575,6 @@ footer .copy {
   border-radius: 4px;
   margin-left: 5px;
 }
-
-
 /*-----------------------------------*/
 /*          MEDIA QUERIES            */
 /*-----------------------------------*/
@@ -602,9 +611,14 @@ footer .copy {
   .onboard-svg {
    display: none; 
   }
+  .brands-row span {
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+  }
 }
-
-
-
-
-
+@media screen and (min-width: 767px) {
+  .folio {
+    min-height: 725px;
+  }
+}
