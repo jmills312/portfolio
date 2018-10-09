@@ -32,6 +32,11 @@ span.small {
   font-size: 12px;
   color: #888;
 }
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
 /* TOP */ 
 #top {
 	padding-top: 115px;
@@ -214,6 +219,36 @@ nav ul li a:hover {
   width: 60px;
   height: 60px;
 }
+/* Mdal */
+.modal-dialog {
+  width: 80%;
+  max-width: 1140px;
+}
+.btn-modal {
+  color: #333;
+  background: #ccc;
+}
+.modal-header {
+  background: #333;
+  color: #fff;
+  padding: 20px;
+}
+.modal-dialog .close {
+  font-size: 24px;
+  color: #fefefe;
+}.modal ul li {
+  font-size: 14px;
+  list-style: square;
+  margin-left: 25px;
+  color: #333;
+}
+.modal .col-sm-2 {
+  margin-bottom: 15px;
+}
+.modal p, h5 {
+  margin-bottom: 8px;
+}
+
 /*-----------------------------------*/
 /*            Porftolio              */
 /*-----------------------------------*/
@@ -228,27 +263,24 @@ nav ul li a:hover {
   background: radial-gradient(#F8F8F8, #F9F9F9);
   text-align: center;
 }
+.folio-small {
+  max-width: 98%;
+}
 .folio-items:hover {
   box-shadow: 0 1px 4px 1px rgba(117,117,117,.2);
-}
-.folio1 {
-  min-height: 750px;
 }
 .folio img {
   -moz-transition: all 0.6s;
   -webkit-transition: all 0.6s;
   transition: all 0.6s;
 }
-.folio1 img {
-  max-width: 85%;
-  padding: 20px;
-}
 .folio:hover img {
   -moz-transform: scale(1.008);
   -webkit-transform: scale(1.008);
   transform: scale(1.008);
+  opacity: .9;
 }
-/* folio 1 */
+/* Onboarding Dash */
 .dashboard {
   border: 1px solid #fff;
   padding-left: 0;
@@ -356,17 +388,16 @@ nav ul li a:hover {
   box-shadow: inset 0px 0px 0px #4A90E2;
 }
 .check1 {
-  
   animation: fill .5s ease-in-out .5s forwards, scale .8s ease-in-out .8s both;
   animation-delay: .8s;
 }
 .check2 {
   animation: fill .5s ease-in-out .5s forwards, scale .8s ease-in-out .8s both; 
-  animation-delay: 1.4s; 
+  animation-delay: 1.2s; 
 }
 .check3 {
   animation: fill .5s ease-in-out .5s forwards, scale .8s ease-in-out .8s both;
-animation-delay: 2s;    
+  animation-delay: 1.8s;    
 }
 .checkmark__check {
   transform-origin: 50% 50%;
@@ -432,6 +463,11 @@ animation-delay: 2s;
   font-size: 20px;
   margin-bottom: 15px;
 }
+.onboard-dash, .reporting-app {
+  margin: 0 auto;
+  display: block;
+  padding: 15px;
+}
 .task-list {
   max-width: 100%;
 }
@@ -470,9 +506,13 @@ animation-delay: 2s;
   min-height: 55px;
   padding: 12px 0;
 }
+.brands-row p {
+  margin-top: 4px;
+}
 .brands-row {
   padding: 20px;
 }
+/* Footer */
 footer {
   background: #000;
   color: #fff;
@@ -482,6 +522,14 @@ footer .glyphicon, .fab {
   border: 1px solid #f8f8f8;
   border-radius: 60px; 
   padding: 12px;
+  -webkit-transition: color.3s ease-in-out;
+  -moz-transition: color .3s ease-in-out;
+  -o-transition: color .3s ease-in-out;
+  transition: color.3s ease-in-out;
+  -webkit-transition: border.3s ease-in-out;
+  -moz-transition: border .3s ease-in-out;
+  -o-transition: border .3s ease-in-out;
+  transition: border.3s ease-in-out;
 }
 .fab {
   width: 52px;
@@ -495,13 +543,17 @@ footer .glyphicon {
   border: 1px solid #f8f8f8;
   border-radius: 50%; 
 }
-footer a:hover {
-  color: #000;
-  -webkit-transition: background .3s ease-in-out;
-  -moz-transition: background .3s ease-in-out;
-  -o-transition: background .3s ease-in-out;
-  transition: background .3s ease-in-out;
+footer .glyphicon:hover, .fab:hover {
+  border: 1px solid #CCC;
+
+  padding: 12px;
+  color: #ccc;
 }
+footer .copy {
+  font-size: 11px;
+  margin-bottom: 12px;
+}
+
 .fa {
   padding: 4px;
   width: 200px;
@@ -556,9 +608,17 @@ footer a:hover {
   .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
     color: #fff;
   }
+  .onboard-svg {
+   display: none; 
+  }
+  .brands-row span {
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+  }
 }
-
-
-
-
-
+@media screen and (min-width: 767px) {
+  .folio {
+    min-height: 725px;
+  }
+}
