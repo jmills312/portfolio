@@ -358,6 +358,25 @@ nav ul li a:hover {
   margin-bottom: 45px;
 }
 /** Folio 2 **/ 
+#media-tag {
+  min-height: 550px;
+  background: radial-gradient(#F8F8F8, #F9F9F9);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .springleaf-mocks {
   padding: 0;
 }

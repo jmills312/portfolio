@@ -27,7 +27,7 @@
 			</div>
 		</div><!--/row-->
 		<div class="row copy">
-			<div class="col-xs-4 col-sm-offset-4 text-center">
+			<div class="col-xs-12 text-center">
 				<p><span class="small">&copy; 2018 JMMills llc</span></p>
 			</div>
 		</div>

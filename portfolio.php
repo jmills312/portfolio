@@ -10,7 +10,7 @@
 				<div class="border-bottom black-border"></div>
 			</div>
 		</div>
-		<!-- portfolio items -->
+		<!-- FOLIO ITEMS  -->
 		<div class="row folio-items m-bottom2" data-aos="fade-up"
      data-aos-duration="1000">
 			<a href="folio1.php">	
@@ -21,6 +21,18 @@
 				</div><!--/col xs 12-->
 			</a>
 		</div><!--/row-->
+		
+		<div class="row folio-items m-bottom2" data-aos="fade-up"
+     data-aos-duration="1000">
+			<a href="folio2.php">	
+				<div class="col-xs-12 folio folio1">
+					<figure>
+						<img class="img-responsive onboard-dash" src="assets/img/portfolio/media-tags.png" alt="Conversant media tagging project" >
+					</figure>
+				</div><!--/col xs 12-->
+			</a>
+		</div><!--/row-->
+
 		<div class="row m-bottom2">
 			<a data-target="#myModal" data-toggle="modal">
 				<div class="col-sm-12 folio" data-aos="fade-left" data-aos-duration="1000">
@@ -67,7 +79,7 @@
 		      		<div class="row m-bottom2">
 		      			<div class="col-sm-7">
 		      				<p><span class="bold-inline">Background:</span> SaveUp was a financial app whose mission was to incentivize saving. The business model utilized a gamification approach - users enter their banking information, earn pionts through saving money (banking and 401k), and use the points to win prizes. </p>
-		      				<p>We had to use the existing ecosystem; limiting our redesign and engineering efforts. Several pain points, like the prize and credit exchange, weren't addressed for the mvp rollout. Many of our enhancements didn't make it to production, due to limitations in budget.</p>
+		      				<p>We had to use the existing ecosystem, which constrained our redesign and engineering efforts. Several pain points, like the prize and credit exchange, weren't addressed for the mvp rollout. Many of our enhancements didn't make it to production, due to limitations in budget.</p>
 		      			</div>
 		      		</div>
 		      		<div class="row m-bottom2">
