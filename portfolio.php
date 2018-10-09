@@ -11,7 +11,7 @@
 			</div>
 		</div>
 		<!-- FOLIO ITEMS  -->
-		<div class="row folio-items m-bottom2" data-aos="fade-up"
+		<div id="main-page" class="row folio-items m-bottom2" data-aos="fade-up"
      data-aos-duration="1000">
 			<a href="folio1.php">	
 				<div class="col-xs-12 folio folio1">

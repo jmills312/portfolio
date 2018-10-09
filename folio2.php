@@ -3,7 +3,7 @@
 <!-- nav -->
 <?php include 'work_nav.php'?>
 <!-- top -->
-<section  id="media-tag">
+<section  class="m-bottom2" id="media-tag">
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12">
@@ -12,7 +12,7 @@
 		</div><!--/row-->
 		<div class="row">
 			<div class="col-xs-12">
-				<img class="img-responsive" src="assets/img/portfolio/media-tag-top.png">
+				<img class="img-responsive" src="assets/img/portfolio/media-tag5.png" data-aos="fade-left" data-aos-duration="800">
 			</div>
 		</div><!--/row-->
 	</div><!--/container-->
