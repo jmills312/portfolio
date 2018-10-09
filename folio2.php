@@ -12,13 +12,11 @@
 		</div><!--/row-->
 		<div class="row">
 			<div class="col-xs-12">
-				<img src="assets/img/portfolio/media-tag-top.png">
+				<img class="img-responsive" src="assets/img/portfolio/media-tag-top.png">
 			</div>
 		</div><!--/row-->
 	</div><!--/container-->
 </section>
-
-
 
 
 
