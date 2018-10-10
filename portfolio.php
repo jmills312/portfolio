@@ -48,7 +48,7 @@
 		      	<div class="container-fluid">
 		      		<div class="row m-bottom2">
 		      			<div class="col-sm-12">
-		      				<img class="img-responsive" src="assets/img/portfolio/modal/saveup.png" alt="saveup screens">
+		      				<img class="img-responsive top-tag-img" src="assets/img/portfolio/modal/top-tags.png" alt="Conversant screens">
 		      			</div>
 		      		</div>
 		      		<div class="row m-bottom2">
@@ -82,15 +82,29 @@
 		      			</div>
 		      		</div>
 		      		<div class="row">
-		      			<div class="col-sm-12">
+		      			<div class="col-sm-12 m-bottom">
 		      				<p class="m-bottom"><span class="bold-inline">Improved CIE Workflow:</span></p>
 		      				<img class="img-responsive" src="assets/img/portfolio/cie-workflow.png" alt="workflow image for cie"> 			
 		      			</div>
 		      		</div>
 
-
-
-
+	      			<div class="row m-bottom">
+		      			<div class="col-sm-12">
+		      				<p class="m-bottom"><span class="bold-inline"> Wireframe:</span> Using the Site Tags section as a foundation,  I threw together some sketches, whiteboarded the common use cases, and eveuntually landed on the following design. The annotations in red call out the most important operational requests.</p>
+		      				<img class="img-responsive" src="assets/img/portfolio/modal/media-tag-wire.png" alt="wireframe for media tags"> 			
+		      			</div>
+		      		</div>
+      			<div class="row">
+		      		<div class="col-sm-6">
+		      			<p class="m-bottom"><span class="bold-inline"> Edit Modal:</span></p>
+		      			<img class="img-responsive" src="assets/img/portfolio/modal/edit.png" alt="edit modal image for media tags">
+	      			</div>
+	      		
+		      		<div class="col-sm-6">
+		      			<p class="m-bottom"><span class="bold-inline"> Impression and Click Modal:</span></p>
+		      			<img class="img-responsive" src="assets/img/portfolio/modal/impressions.png" alt="impressions and clicks modal image for media tags">
+	      			</div>
+	      		</div>
 
 		      	</div>
 		      </div>

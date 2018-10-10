@@ -13,9 +13,9 @@
 
 		<div class="row">
 			<div class="col-sm-6 col-sm-offset-3">
-					<p class="process">My <span class="bold-inline-dark">non-linear</span> approach to solving business challenges enatails <span class="bold-inline-dark">strategic thinking</span>, collaboration, and fast iterations.</p>
-				</div>
+				<p class="process">My <span class="bold-inline-dark">non-linear</span> approach to solving business challenges enatails <span class="bold-inline-dark">strategic thinking</span>, collaboration, and fast iterations.</p>
 			</div>
+		</div>
 
 		<div class="row">
 			<div class="col-lg-12" data-aos="zoom-in" data-aos-duration="1500">

@@ -4,10 +4,6 @@
 <!-- nav -->
 <?php include 'nav.php' ?>
 
-
-
-
-
 <section id="top">
 	<div class="container">
 		<div class="row">
@@ -23,7 +19,6 @@
 		</div>
 	</div><!--/container-->
 </section>
-
 
 
 <!-- process -->

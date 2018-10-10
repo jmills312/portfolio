@@ -13,6 +13,11 @@
 		</div>
 
 		<div class="row m-bottom">
+			<div class="col-sm-6 col-sm-offset-3 text-center">
+				<p class="process">If you are seeking an <span class="bold-inline-dark">organized,</span> outgoing, and  <span class="bold-inline-dark">passionate</span> designer, then let's get in touch!</p>
+			</div>
+		</div>
+		<div class="row m-bottom">
 			<div class="col-xs-3 col-sm-1 col-sm-offset-4">
 				<a href="mailto:jared@jaredmc.com?Subject=Hello" target="blank"><span class="glyphicon glyphicon-envelope"></span></a>
 			</div>
