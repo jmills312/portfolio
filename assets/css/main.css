@@ -40,6 +40,14 @@ span.small {
 a:hover {
   cursor: pointer;
 }
+p.process {
+  font-size: 18px;
+  line-height: 28px;
+}
+.bold-inline-dark {
+  color: #fefefe;
+  font-weight: bold;
+}
 /* TOP */ 
 #top {
 	padding-top: 115px;
