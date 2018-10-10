@@ -54,29 +54,44 @@
 		      		<div class="row m-bottom2">
 		      			<div class="col-sm-2">
 		        			<h5>Role</h5>
-		        			<p>UI/UX</p>
+		        			<p>UI/UX Lead</p>
 		        		</div>
 		      			<div class="col-sm-3">
 		        			<h5>Technologies</h5>
-		        			<p>Pencil & paper, whiteboard, Axure</p>
+		        			<p>Axure</p>
 		        		</div>
 								<div class="col-sm-3">
 									<h5>Timeline</h5>
-									<p>&ast;2 weeks</p>
+									<p>3 weeks</p>
 								</div>
 		      		</div>
-		      		<div class="row m-bottom2">
-		      			<div class="col-sm-7">
-		      				<p><span class="bold-inline">Background:</span> SaveUp was a financial app whose mission was to incentivize saving. The business model utilized a gamification approach - users enter their banking information, earn pionts through saving money (banking and 401k), and use the points to win prizes. </p>
+
+		      		<div class="row">
+		      			<div class="col-md-7">
+		      				<p class="m-bottom"><span class="bold-inline">Role:</span> As the lead UI/UX designer I worked with product and key stakeholders in opertions (CIEs) to understand their workflow, pain points, and goals.</p> 			
+		      			</div>
+		      		</div>
+
+		      		<div class="row">
+		      			<div class="col-md-7">
+		      				<p><span class="bold-inline">Background:</span> Media tags are currently provisioned for clients in Cobalt- one of the legacy tools being phased out. I was the lead UX designer for site tagging, which was a similar product initiative. We were able to replicate many patterns and borrow functionality from the site tagging project.</p>
 		      				
+		      				<p><span class="bold-inline">Goal:</span> Product initiative is to build a user interface to manage cross-media buy measurement tags for internal and client users. A win will integrate existing functionality from Cobalt and permit scalability for large clients.</p>
+		      				<p>For Client Integration Engineers (primary user), this means they will no longer have to jump between two different tools - Cobalt to provision a tag, then a separate tool for monitoring perfromance.</p>
+		      				<p>For client users who are permissioned with Conversant for self-service campaign management, a win means they can create tags themselves, and distribute to appropriate parties for implementation. CIEs will monitor performance, as they do now, and provide necessary overlap reports.</p>      				
 		      			</div>
 		      		</div>
-		      		<div class="row m-bottom2">
-		      			<div class="col-sm-9">
-		      				<p class="m-bottom"><span class="bold-inline">Role:</span> As the lead UI/UX designer I was responsible for the redesign of the iOS, Android, and web application. Using one week sprints, I worked closely with the engineering team to roll out an mvp for iOS and Android. </p>
-		      				<p>*Engineering efforts ceased when adequate funding couldn't be obtained.</p> 
+		      		<div class="row">
+		      			<div class="col-sm-12">
+		      				<p class="m-bottom"><span class="bold-inline">Improved CIE Workflow:</span></p>
+		      				<img class="img-responsive" src="assets/img/portfolio/cie-workflow.png" alt="workflow image for cie"> 			
 		      			</div>
 		      		</div>
+
+
+
+
+
 		      	</div>
 		      </div>
 		      <div class="modal-footer">

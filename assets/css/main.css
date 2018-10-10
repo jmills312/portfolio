@@ -37,6 +37,9 @@ span.small {
     height: 100%;
     vertical-align: middle;
 }
+a:hover {
+  cursor: pointer;
+}
 /* TOP */ 
 #top {
 	padding-top: 115px;
@@ -247,6 +250,10 @@ nav ul li a:hover {
 }
 .modal p, h5 {
   margin-bottom: 8px;
+}
+.modal-content {
+  overflow-y: auto;
+  max-height: calc(100vh - 100px);
 }
 
 /*-----------------------------------*/
