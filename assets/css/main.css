@@ -54,7 +54,7 @@ p.process {
 	min-height: 450px;
 }
 .me {
-	width: 87%;
+	width: 75%;
 }
 #top h1 {
 	font-size: 47px;
@@ -211,6 +211,8 @@ nav ul li a:hover {
 .right_arrow {
   display: block;
   width: 100%;
+}
+.last_three {
   padding-top: 60px;
 }
 #process h4 {
@@ -286,10 +288,12 @@ nav ul li a:hover {
   background: radial-gradient(#F8F8F8, #F9F9F9);
   text-align: center;
 }
-.folio-small {
-  max-width: 98%;
+.short-mocks {
+  background: radial-gradient(#F8F8F8, #F9F9F9);
+  text-align: center;
+  padding: 0 !important;
+  min-height: 310px;
 }
-
 .folio img {
   -moz-transition: all 0.6s;
   -webkit-transition: all 0.6s;

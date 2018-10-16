@@ -34,7 +34,7 @@
 					<p>Define requirements, understand problem, stakeholder interviews, competitive analysis </p>
 				</div>
 				<div class="col-sm-1">
-					<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="1200">
+					<img class="right_arrow right_arrow_one" src="assets/img/process/left_arrow_first.svg" data-aos="fade-right" data-aos-duration="1200">
 				</div>
 					<div class="col-md-2 col-sm-3" data-aos="zoom-in" data-aos-duration="700">
 						<div class="numbers">
@@ -45,7 +45,7 @@
 						<p>Brainstorm, user journeys, information architecture, sketch, wireframe, prototype</p>
 				</div>
 					<div class="col-sm-1">
-						<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="1400">
+						<img class="right_arrow last_three" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="1400">
 				</div>
 					<div class="col-md-2 col-sm-3" data-aos="zoom-in" data-aos-duration="1050">
 						<div class="numbers">
@@ -56,7 +56,7 @@
 						<p>Implement functionality and build the experience</p>
 					</div>
 					<div class="col-sm-1">
-						<img class="right_arrow" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="16md"> 
+						<img class="right_arrow last_three" src="assets/img/process/right_arrow.svg" data-aos="fade-right" data-aos-duration="16md"> 
 				</div>
 				<div class="col-md-2 col-sm-3" data-aos="zoom-in" data-aos-duration="1300">
 					<div class="numbers">
