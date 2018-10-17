@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="813px" height="47px" viewBox="0 0 813 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 8</title>
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>left_arrows</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Desktop-HD" transform="translate(-344.000000, -647.000000)">
-            <g id="Group-8" transform="translate(348.000000, 648.000000)">
-                <path id="Line-9" d="M1.02668361,28.5 L5.52668361,19.5 L-3.47331639,19.5 L1.02668361,28.5 Z M0.526683609,5.68434189e-14 L0.526683609,20 L0.526683609,20.5 L1.52668361,20.5 L1.52668361,20 L1.52668361,5.68434189e-14 L1.52668361,-0.5 L0.526683609,-0.5 L0.526683609,5.68434189e-14 Z" fill="#7C7C7C" fill-rule="nonzero"></path>
-                <path id="Line-9" d="M271.552308,28.9814815 L276.052308,19.9814815 L267.052308,19.9814815 L271.552308,28.9814815 Z M271.052308,1.51851852 L271.052308,20.4814815 L271.052308,20.9814815 L272.052308,20.9814815 L272.052308,20.4814815 L272.052308,1.51851852 L272.052308,1.01851852 L271.052308,1.01851852 L271.052308,1.51851852 Z" fill="#7C7C7C" fill-rule="nonzero"></path>
-                <polyline id="Line-8" stroke="#7C7C7C" stroke-linecap="square" points="2.05336722 0 806.973316 0 806.973316 43"></polyline>
-                <circle id="Oval-11" fill="#7C7C7C" cx="806.919949" cy="44" r="2"></circle>
-            </g>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="left_arrows">
+            <path d="M543.5,1 L543.5,44" id="Line" stroke="#7C7C7C" stroke-linecap="square"></path>
+            <path d="M810.5,1 L810.5,44" id="Line" stroke="#7C7C7C" stroke-linecap="square"></path>
+            <path d="M5.02668361,1 L810.5,1" id="Line" stroke="#7C7C7C" stroke-linecap="square"></path>
+            <path d="M5.02668361,29.5 L9.52668361,20.5 L0.52668361,20.5 L5.02668361,29.5 Z M4.52668361,1 L4.52668361,21 L4.52668361,21.5 L5.52668361,21.5 L5.52668361,21 L5.52668361,1 L5.52668361,0.5 L4.52668361,0.5 L4.52668361,1 Z" id="Line-9" fill="#7C7C7C" fill-rule="nonzero"></path>
+            <path d="M275.552308,29.9814815 L280.052308,20.9814815 L271.052308,20.9814815 L275.552308,29.9814815 Z M275.052308,2.51851852 L275.052308,21.4814815 L275.052308,21.9814815 L276.052308,21.9814815 L276.052308,21.4814815 L276.052308,2.51851852 L276.052308,2.01851852 L275.052308,2.01851852 L275.052308,2.51851852 Z" id="Line-9" fill="#7C7C7C" fill-rule="nonzero"></path>
+            <circle id="Oval-11" fill="#7C7C7C" cx="810.919949" cy="45" r="2"></circle>
+            <circle id="Oval-11" fill="#7C7C7C" cx="543.5" cy="45" r="2"></circle>
         </g>
     </g>
 </svg>

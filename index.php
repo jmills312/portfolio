@@ -3,21 +3,23 @@
 <body>
 <!-- nav -->
 <?php include 'nav.php' ?>
+
 <section id="top">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-6">
+			<div class="col-lg-6 col-md-7">
 				<h1> Hello, I’m Jared Mills, an experience designer in Chicago</h1>
 				<p>I employ iterative <span class="bold-inline">design thinking</span>, and a passion for creating <span class="bold-inline">elegant interfaces</span> to evoke <span class="bold-inline">positive emotions</span></p>
 				<div class="arrow bounce">
 				<a href="#two"><img src="assets/img/downArrow.svg"></a>
 			</div>
 		</div>
-		<div class="col-md-4 col-sm-offset-2">
+		<div class="col-lg-4 col-md-3 col-md-offset-1 col-lg-offset-2">
 			<img class="me" src="assets/img/me.svg">
 		</div>
 	</div><!--/container-->
 </section>
+
 
 <!-- process -->
 <?php include 'process.php' ?>
