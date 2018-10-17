@@ -184,13 +184,13 @@
 		
 		<div class="row m-bottom2" >
 			<a data-target="#myModal2" data-toggle="modal">
-				<div class="col-sm-6 short-mocks" data-aos="fade-right" data-aos-duration="1000">
+				<div class="col-sm-6 short-mocks m-bottom2" data-aos="fade-right" data-aos-duration="1000">
 					<img class="img-responsive" src="assets/img/portfolio/sl-case-study.png" alt="springleaf concepts" >
 				</div>
 			</a>
 			<a data-target="#myModal6" data-toggle="modal">
 				<div class="col-sm-5 col-sm-offset-1 short-mocks" data-aos="fade-left" data-aos-duration="1000">
-					<img  class="img-responsive" src="assets/img/portfolio/sl-case-study.png" alt="springleaf concepts" >
+					<img  class="img-responsive nab-comp" src="assets/img/portfolio/OLD/folioTwo.jpg" alt="nab concepts" >
 				</div>
 			</a>
 
@@ -260,9 +260,9 @@
 			      <div class="modal-header">
 			      	<div class="row">
 			      		<div class="col-xs-4">
-			        	<h4 class="modal-title" id="myModalLabel">Springleaf Financial</h4>
+			        	<h4 class="modal-title" id="myModalLabel">North American Bancard</h4>
 			        	</div>
-			        	<div class="col-sm-2 col-sm-offset-6">
+			        	<div class="col-sm-1 col-sm-offset-7">
 			        		<button class="btn btn-modal close" type="button" data-dismiss="modal">X</button>
 			        	</div>
 			        </div><!--row-->
@@ -271,36 +271,31 @@
 			      	<div class="container-fluid">
 			      		<div class="row m-bottom2">
 			      			<div class="col-sm-12">
-			      				<img class="img-responsive" src="assets/img/portfolio/modal/folioFourteenPopup.jpg" alt="saveup screens">
+			      				<img class="img-responsive" src="assets/img/portfolio/OLD/folioFourPopup.jpg" alt="saveup screens">
 			      			</div>
 			      		</div>
 			      		<div class="row m-bottom2">
 			      			<div class="col-sm-2">
 			        			<h5>Role</h5>
-			        			<p>UI/UX</p>
+			        			<p>UI Developer</p>
 			        		</div>
 			      			<div class="col-sm-2 col-sm-offset-1">
 			        			<h5>Technologies</h5>
-			        			<p>Sketch, PS, AI, HTML, CSS, JS</p>
+			        			<p>PS, AI, HTML, CSS, JS</p>
 			        		</div>
 									<div class="col-sm-2 col-sm-offset-1">
 										<h5>Timeframe</h5>
-										<p> ~ 2 years</p>
+										<p> ~ 1 year </p>
 									</div>
 			      		</div>
 			      		<div class="row m-bottom2">
 			      			<div class="col-sm-7">
-			      				<p><span class="bold-inline">Background:</span> Springleaf Financial is a financial services company based in Evansville, Indiana. The Chicago office I worked in was a remote digital marketing team assembled in early 2016. The office expanded to roughly forty five people while I worked there. Some of the teams goals:</p>
-			      				<ul>
-			      					<li>Improve messaging to target market</li>
-			      					<li>Increase lead generation</li>
-			      					<li>Consistent branding and aesthetics</li>
-			      				</ul>
+			      				<p><span class="bold-inline">Background:</span> North American Bancard is a credit card processing company that specializes in credit card processing for small to medium size businesses. </p>
 			      			</div>
 			      		</div>
 			      		<div class="row m-bottom2">
-			      			<div class="col-sm-9">
-			      				<p class="m-bottom"><span class="bold-inline">Role:</span> My primary role was the implementation of digital marketing campaigns. Secondly, I worked on designing website pages, landing pages,  and an internal reporting app for the marketing team.</p> 
+			      			<div class="col-sm-7">
+			      				<p class="m-bottom"><span class="bold-inline">Role:</span> My primary role was working with the creative marketing team to implement email campaigns, and web pages for NAB and subsidiaries.</p> 
 			      			</div>
 			      		</div>
 			      	</div>

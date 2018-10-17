@@ -292,7 +292,6 @@ nav ul li a:hover {
   background: radial-gradient(#F8F8F8, #F9F9F9);
   text-align: center;
   padding: 0 !important;
-  min-height: 310px;
 }
 .folio img {
   -moz-transition: all 0.6s;
@@ -627,6 +626,12 @@ footer .copy {
     padding-top: 105px;
     width: 100%;
   }
+  .short-mocks {
+    min-height: 350px;
+  }
+  .nab-comp {
+    padding-top: 59px;
+  }
 }
 @media screen and (max-width: 767px) { 
   .left_arrows {
@@ -649,10 +654,5 @@ footer .copy {
     text-align: center;
     display: block;
     margin-bottom: 20px;
-  }
-}
-@media screen and (min-width: 767px) {
-  .folio {
-    min-height: 725px;
   }
 }
