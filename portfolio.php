@@ -30,7 +30,7 @@
 				</div><!--/col xs 12-->
 			</a>
 		</div><!--/row-->
-		<!-- SAVEUP MODAL -->
+		<!-- CNVR MEDIA MODAL -->
 		<div tabindex="-1" class="modal fade" id="myModal4" role="dialog" aria-hidden="true" aria-labelledby="myModalLabel">
 		  <div class="modal-dialog">
 		    <div class="modal-content">
@@ -115,8 +115,93 @@
 		  </div><!-- /.modal-dialog -->
 		</div><!-- /.modal -->
 
+		<div class="row m-bottom2">
+			<a data-target="#myModal7" data-toggle="modal">
+				<div class="col-sm-8 folio" data-aos="fade-left" data-aos-duration="1000">
+				<img class="img-responsive" src="assets/img/portfolio/user_flow.png" alt="New userflow for Conversant app">
+				</div>
+			</a>	
+		</div>
+		<!-- USER FLOW MODAL -->
+		<div tabindex="-1" class="modal fade" id="myModal7" role="dialog" aria-hidden="true" aria-labelledby="myModalLabel">
+		  <div class="modal-dialog">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		      	<div class="row">
+		      		<div class="col-xs-4">
+		        	<h4 class="modal-title" id="myModalLabel">New User Sign in</h4>
+		        	</div>
+		        	<div class="col-sm-2 col-sm-offset-6">
+		        		<button class="btn btn-modal close" type="button" data-dismiss="modal">X</button>
+		        	</div>
+		        </div><!--row-->
+		      </div>
+		      <div class="modal-body">
+		      	<div class="container-fluid">
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-12">
+		      				<img class="img-responsive" src="assets/img/portfolio/modal/saveup.png" alt="saveup screens">
+		      			</div>
+		      		</div>
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-2">
+		        			<h5>Role</h5>
+		        			<p>UI/UX</p>
+		        		</div>
+		      			<div class="col-sm-2 col-sm-offset-1">
+		        			<h5>Technologies</h5>
+		        			<p>Axure, Sketch</p>
+		        		</div>
+								<div class="col-sm-2 col-sm-offset-1">
+									<h5>Timeline</h5>
+									<p>3 days</p>
+								</div>
+		      		</div>
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-7">
+		      				<p><span class="bold-inline">Background:</span> Product noticed that there had been a significant decrease with new clients singing into Conversant Access. While this was not a large project, the results from a  more streamlined sign in process could have a significant long-term impact on client usage in Access.</p>
+		      				<p>Unfortunately data could not be obtained to determine the exact drop off point. Therefore a full assessment of the entire sign in process was necessary.</p>
+		      			</div>
+		      		</div>
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-9">
+		      				<p class="m-bottom"><span class="bold-inline">Role:</span> My initial research involved getting product to assign me dummy client credentials. A few things jumped out with my initial research:</p>
+		      				<ul>
+		      					<li>First - I noticed the welcome email was not formatted in a reader friendly way -- the link into Accesss was buried in an unnecessarily long block of text.</li>
+		      					<li>Second - the client users are forced through accepting a legal terms and conditions page</li>
+		      					<li>Third - the users are forced into a third step to login, after setting their password and accepting legal</li>
+		      				</ul>
+		      			</div>
+		      		</div>
 
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-9">
+		      				<p class="m-bottom"><span class="bold-inline">Old userflow:</span></p><p>1). Users enter their email, Set Password, and Confirm Password 2). Scroll to the bottom of a three page t&c page 3). Enter Usernam and New Password 4). Land on Dashboard<img class="img-responsive" src="assets/img/portfolio/old_user_flow.png" alt="old user flow for cnvr access"></p>
+		      				<p class="m-bottom"><span class="bold-inline">New userflow:</span> </p> <p>1). Enter Password and Confirm Password (no email is necessary since they have received the secure sign in email from Conversant). Check the accept t&c box, with option to view legal t&C in another tab. 2). Land on Dashboard<img class="img-responsive" src="assets/img/portfolio/new_user_flow.png" alt="New user flow for cnvr access"></p>
+		      			</div>
+		      		</div>
 
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-9">
+		      				<p class="m-bottom"><span class="bold-inline">Results:</span> 
+		      				<ul>
+		      					<li>Utilized recently designed notification emails as a template to send to new client users</li>
+		      					<li>Got legal approval to allow users to accept terms and conditions through a checkbox on the first step. Optionally they can view t&c in another tab</li>
+		      					<li>Worked with engineering to combine setting the password (userflow screen 1 and userflow screen 3) and loggin in</li>
+		      				</ul>
+		      				These main points allowed us to present client users with a more polished email, and force them into one step for loggin in.
+		      				</p>
+		      			</div>
+		      		</div>
+
+		      	</div>
+		      </div>
+		      <div class="modal-footer">
+		        <button class="btn btn-modal" type="button" data-dismiss="modal">Close</button>
+		      </div>
+		    </div><!-- /.modal-content -->
+		  </div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
 
 		<div class="row m-bottom2">
 			<a data-target="#myModal" data-toggle="modal">
