@@ -10,6 +10,120 @@
 				<div class="border-bottom black-border"></div>
 			</div>
 		</div>
+<div id="main-page" class="row folio-items m-bottom2" data-aos="fade-up"
+     data-aos-duration="1000">
+			<a href="folio1.php">	
+				<div class="col-xs-12 folio folio1">
+					<figure>
+						<img class="img-responsive onboard-dash" src="assets/img/onboarding-dash2.png" alt="onboarding dasboard" >
+					</figure>
+				</div><!--/col xs 12-->
+			</a>
+		</div><!--/row-->
+		
+		<div class="row folio-items m-bottom2" data-aos="fade-up"
+     data-aos-duration="1000">
+			<a data-target="#myModal0" data-toggle="modal">
+				<div class="col-sm-10 folio folio1">
+					<img class="img-responsive" style="margin: 0 auto;" src="assets/img/portfolio/female_hand.png" alt="First Provider finanacial" >
+				</div><!--/col xs 12-->
+			</a>
+		</div><!--/row-->
+		<!-- SAVEUP MODAL -->
+		<div tabindex="-1" class="modal fade" id="myModal0" role="dialog" aria-hidden="true" aria-labelledby="myModalLabel">
+		  <div class="modal-dialog">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		      	<div class="row">
+		      		<div class="col-xs-4">
+		        	<h4 class="modal-title" id="myModalLabel">Conversant Media Tags</h4>
+		        	</div>
+		        	<div class="col-sm-2 col-sm-offset-6">
+		        		<button class="btn btn-modal close" type="button" data-dismiss="modal">X</button>
+		        	</div>
+		        </div><!--row-->
+		      </div>
+		      <div class="modal-body">
+		      	<div class="container-fluid">
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-12">
+		      				<img class="img-responsive top-tag-img" src="assets/img/portfolio/modal/top-tags.png" alt="Conversant screens">
+		      			</div>
+		      		</div>
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-2">
+		        			<h5>Role</h5>
+		        			<p>UI/UX Lead</p>
+		        		</div>
+		      			<div class="col-sm-3">
+		        			<h5>Technologies</h5>
+		        			<p>Axure</p>
+		        		</div>
+								<div class="col-sm-3">
+									<h5>Timeline</h5>
+									<p>3 weeks</p>
+								</div>
+		      		</div>
+
+		      		<div class="row">
+		      			<div class="col-md-7">
+		      				<p class="m-bottom"><span class="bold-inline">Role:</span> As the lead UI/UX designer I worked with product and key stakeholders in opertions (CIEs) to understand their workflow, pain points, and goals.</p> 			
+		      			</div>
+		      		</div>
+
+		      		<div class="row">
+		      			<div class="col-md-7">
+		      				<p><span class="bold-inline">Background:</span> Media tags are currently provisioned for clients in Cobalt- one of the legacy tools being phased out. I was the lead UX designer for site tagging, which was a similar product initiative. We were able to replicate many patterns and borrow functionality from the site tagging project.</p>
+		      				
+		      				<p><span class="bold-inline">Goal:</span> Product initiative is to build a user interface to manage cross-media buy measurement tags for internal and client users. A win will integrate existing functionality from Cobalt and permit scalability for large clients.</p>
+		      				<p>For Client Integration Engineers (primary user), this means they will no longer have to jump between two different tools - Cobalt to provision a tag, then a separate tool for monitoring perfromance.</p>
+		      				<p>For client users who are permissioned with Conversant for self-service campaign management, a win means they can create tags themselves, and distribute to appropriate parties for implementation. CIEs will monitor performance, as they do now, and provide necessary overlap reports.</p>      				
+		      			</div>
+		      		</div>
+		      		<div class="row">
+		      			<div class="col-sm-12 m-bottom">
+		      				<p class="m-bottom"><span class="bold-inline">Improved CIE Workflow:</span></p>
+		      				<img class="img-responsive" src="assets/img/portfolio/cie-workflow.png" alt="workflow image for cie"> 			
+		      			</div>
+		      		</div>
+
+	      			<div class="row m-bottom">
+		      			<div class="col-sm-12">
+		      				<p class="m-bottom"><span class="bold-inline"> Wireframe:</span> Using the Site Tags section as a foundation,  I threw together some sketches, whiteboarded the common use cases, and eveuntually landed on the following design. The annotations in red call out the most important operational requests.</p>
+		      				<img class="img-responsive" src="assets/img/portfolio/modal/media-tag-wire.png" alt="wireframe for media tags"> 			
+		      			</div>
+		      		</div>
+      			<div class="row">
+		      		<div class="col-sm-6">
+		      			<p class="m-bottom"><span class="bold-inline"> Edit Modal:</span></p>
+		      			<img class="img-responsive" src="assets/img/portfolio/modal/edit.png" alt="edit modal image for media tags">
+	      			</div>
+	      		
+		      		<div class="col-sm-6">
+		      			<p class="m-bottom"><span class="bold-inline"> Impression and Click Modal:</span></p>
+		      			<img class="img-responsive" src="assets/img/portfolio/modal/impressions.png" alt="impressions and clicks modal image for media tags">
+	      			</div>
+	      		</div>
+
+		      	</div>
+		      </div>
+		      <div class="modal-footer">
+		        <button class="btn btn-modal" type="button" data-dismiss="modal">Close</button>
+		      </div>
+		    </div><!-- /.modal-content -->
+		  </div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+
+
+
+
+
+
+
+
+
+
+
 		<!-- FOLIO ITEMS  -->
 		<div id="main-page" class="row folio-items m-bottom2" data-aos="fade-up"
      data-aos-duration="1000">
