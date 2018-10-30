@@ -115,13 +115,6 @@
 		  </div><!-- /.modal-dialog -->
 		</div><!-- /.modal -->
 
-		<div class="row m-bottom2">
-			<a data-target="#myModal7" data-toggle="modal">
-				<div class="col-sm-8 folio" data-aos="fade-left" data-aos-duration="1000">
-				<img class="img-responsive" src="assets/img/portfolio/user_flow.png" alt="New userflow for Conversant app">
-				</div>
-			</a>	
-		</div>
 		<!-- USER FLOW MODAL -->
 		<div tabindex="-1" class="modal fade" id="myModal7" role="dialog" aria-hidden="true" aria-labelledby="myModalLabel">
 		  <div class="modal-dialog">
@@ -176,7 +169,7 @@
 
 		      		<div class="row m-bottom2">
 		      			<div class="col-sm-9">
-		      				<p class="m-bottom"><span class="bold-inline">Old userflow:</span></p><p>1). Users enter their email, Set Password, and Confirm Password 2). Scroll to the bottom of a three page t&c page 3). Enter Usernam and New Password 4). Land on Dashboard<img class="img-responsive" src="assets/img/portfolio/old_user_flow.png" alt="old user flow for cnvr access"></p>
+		      				<p class="m-bottom"><span class="bold-inline">Old userflow:</span></p><p>1). Users enter their email, Set Password, and Confirm Password 2). Scroll to the bottom of thre pages to accept the terms and conditions 3). Enter Usernam and New Password 4). Land on Dashboard<img class="img-responsive" src="assets/img/portfolio/old_user_flow.png" alt="old user flow for cnvr access"></p>
 		      				<p class="m-bottom"><span class="bold-inline">New userflow:</span> </p> <p>1). Enter Password and Confirm Password (no email is necessary since they have received the secure sign in email from Conversant). Check the accept t&c box, with option to view legal t&C in another tab. 2). Land on Dashboard<img class="img-responsive" src="assets/img/portfolio/new_user_flow.png" alt="New user flow for cnvr access"></p>
 		      			</div>
 		      		</div>
@@ -266,138 +259,6 @@
 		    </div><!-- /.modal-content -->
 		  </div><!-- /.modal-dialog -->
 		</div><!-- /.modal -->
-		
-		<div class="row m-bottom2" >
-			<a data-target="#myModal2" data-toggle="modal">
-				<div class="col-sm-6 short-mocks m-bottom2" data-aos="fade-right" data-aos-duration="1000">
-					<img class="img-responsive" src="assets/img/portfolio/sl-case-study.png" alt="springleaf concepts" >
-				</div>
-			</a>
-			<a data-target="#myModal6" data-toggle="modal">
-				<div class="col-sm-5 col-sm-offset-1 short-mocks" data-aos="fade-left" data-aos-duration="1000">
-					<img  class="img-responsive nab-comp" src="assets/img/portfolio/OLD/folioTwo.jpg" alt="nab concepts" >
-				</div>
-			</a>
-
-			<!-- SPRINGLEAF MODAL -->
-			<div tabindex="-1" class="modal fade" id="myModal2" role="dialog" aria-hidden="true" aria-labelledby="myModalLabel">
-			  <div class="modal-dialog">
-			    <div class="modal-content">
-			      <div class="modal-header">
-			      	<div class="row">
-			      		<div class="col-xs-4">
-			        	<h4 class="modal-title" id="myModalLabel">Springleaf Financial</h4>
-			        	</div>
-			        	<div class="col-sm-2 col-sm-offset-6">
-			        		<button class="btn btn-modal close" type="button" data-dismiss="modal">X</button>
-			        	</div>
-			        </div><!--row-->
-			      </div>
-			      <div class="modal-body">
-			      	<div class="container-fluid">
-			      		<div class="row m-bottom2">
-			      			<div class="col-sm-12">
-			      				<img class="img-responsive" src="assets/img/portfolio/modal/folioFourteenPopup.jpg" alt="saveup screens">
-			      			</div>
-			      		</div>
-			      		<div class="row m-bottom2">
-			      			<div class="col-sm-2">
-			        			<h5>Role</h5>
-			        			<p>UI/UX</p>
-			        		</div>
-			      			<div class="col-sm-2 col-sm-offset-1">
-			        			<h5>Technologies</h5>
-			        			<p>Sketch, PS, AI, HTML, CSS, JS</p>
-			        		</div>
-									<div class="col-sm-2 col-sm-offset-1">
-										<h5>Timeframe</h5>
-										<p> ~ 2 years</p>
-									</div>
-			      		</div>
-			      		<div class="row m-bottom2">
-			      			<div class="col-sm-7">
-			      				<p><span class="bold-inline">Background:</span> Springleaf Financial is a financial services company based in Evansville, Indiana. The Chicago office I worked in was a remote digital marketing team assembled in early 2016. The office expanded to roughly forty five people while I worked there. Some of the teams goals:</p>
-			      				<ul>
-			      					<li>Improve messaging to target market</li>
-			      					<li>Increase lead generation</li>
-			      					<li>Consistent branding and aesthetics</li>
-			      				</ul>
-			      			</div>
-			      		</div>
-			      		<div class="row m-bottom2">
-			      			<div class="col-sm-9">
-			      				<p class="m-bottom"><span class="bold-inline">Role:</span> My primary role was the implementation of digital marketing campaigns. Secondly, I worked on designing website pages, landing pages,  and an internal reporting app for the marketing team.</p> 
-			      			</div>
-			      		</div>
-			      	</div>
-			      </div>
-			      <div class="modal-footer">
-			        <button class="btn btn-modal" type="button" data-dismiss="modal">Close</button>
-			      </div>
-			    </div><!-- /.modal-content -->
-			  </div><!-- /.modal-dialog -->
-			</div><!-- /.modal -->
-	
-			<!-- SIGN IN STEPS -->
-			<div tabindex="-1" class="modal fade" id="myModal6" role="dialog" aria-hidden="true" aria-labelledby="myModalLabel">
-			  <div class="modal-dialog">
-			    <div class="modal-content">
-			      <div class="modal-header">
-			      	<div class="row">
-			      		<div class="col-xs-4">
-			        	<h4 class="modal-title" id="myModalLabel">North American Bancard</h4>
-			        	</div>
-			        	<div class="col-sm-1 col-sm-offset-7">
-			        		<button class="btn btn-modal close" type="button" data-dismiss="modal">X</button>
-			        	</div>
-			        </div><!--row-->
-			      </div>
-			      <div class="modal-body">
-			      	<div class="container-fluid">
-			      		<div class="row m-bottom2">
-			      			<div class="col-sm-12">
-			      				<img class="img-responsive" src="assets/img/portfolio/OLD/folioFourPopup.jpg" alt="saveup screens">
-			      			</div>
-			      		</div>
-			      		<div class="row m-bottom2">
-			      			<div class="col-sm-2">
-			        			<h5>Role</h5>
-			        			<p>UI Developer</p>
-			        		</div>
-			      			<div class="col-sm-2 col-sm-offset-1">
-			        			<h5>Technologies</h5>
-			        			<p>PS, AI, HTML, CSS, JS</p>
-			        		</div>
-									<div class="col-sm-2 col-sm-offset-1">
-										<h5>Timeframe</h5>
-										<p> ~ 1 year </p>
-									</div>
-			      		</div>
-			      		<div class="row m-bottom2">
-			      			<div class="col-sm-7">
-			      				<p><span class="bold-inline">Background:</span> North American Bancard is a credit card processing company that specializes in credit card processing for small to medium size businesses. </p>
-			      			</div>
-			      		</div>
-			      		<div class="row m-bottom2">
-			      			<div class="col-sm-7">
-			      				<p class="m-bottom"><span class="bold-inline">Role:</span> My primary role was working with the creative marketing team to implement email campaigns, and web pages for NAB and subsidiaries.</p> 
-			      			</div>
-			      		</div>
-			      	</div>
-			      </div>
-			      <div class="modal-footer">
-			        <button class="btn btn-modal" type="button" data-dismiss="modal">Close</button>
-			      </div>
-			    </div><!-- /.modal-content -->
-			  </div><!-- /.modal-dialog -->
-			</div><!-- /.modal -->
-		</div><!--/row-->
-
-
-
-
-
-
 
 		<div class="row m-bottom2">
 			<a data-target="#myModal3" data-toggle="modal">
@@ -459,6 +320,198 @@
 		  </div><!-- /.modal-dialog -->
 		</div><!-- /.modal -->
 		</div>
+
+		<div class="row">
+			<div class="col-xs-12" id="three">
+				<h2 class="text-center">more</h2>
+			</div>
+		</div>
+
+<div class="panel-group m-bottom2" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h4 class="panel-title">
+        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          New User Registration
+        </a>
+      </h4>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+      	<div class="row">
+      		<div class="col-sm-6">
+      			<p>
+        			<img class="img-responsive" src="assets/img/portfolio/user_flow.png" alt="New userflow for Conversant app">
+        		</p>
+        	</div>
+    			<div class="col-sm-2">
+    				<h5>Role</h5>
+    				<p>UI/UX</p>
+    			</div> 	
+  				<div class="col-sm-2 m-bottom2">
+    				<h5>Technologies</h5>
+    				<p>Axure, Sketch</p>
+    			</div>
+    			<div class="col-sm-2">
+						<h5>Timeline</h5>
+						<p>3 days</p>
+					</div>
+					<div class="col-sm-5">
+						<span class="bold-inline">Background:</span> Product noticed that there had been a significant decrease with new clients singing into Conversant Access. While this was not a large project, the results from a  more streamlined sign in process could have a significant long-term impact on client usage in Access.</p>
+  					<p>Unfortunately data could not be obtained to determine the exact drop off point. Therefore a full assessment of the entire sign in process was necessary.</p>
+					</div>
+      	</div>	
+
+	
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-10">
+		      				<p>
+		      			</div>
+		      		</div>
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-9">
+		      				<p><span class="bold-inline">Role:</span> My initial research involved getting product to assign me dummy client credentials. A few things jumped out with my initial research</p>
+		      				<ol>
+		      					<li>1. I noticed the welcome email was not formatted in a reader friendly way -- the link into Accesss was buried in an unnecessarily long block of text.</li>
+		      					<li>2. the client users are forced through accepting a legal terms and conditions page</li>
+		      					<li>3. the users are forced into a third step to login, after setting their password and accepting legal</li>
+		      				</ol>
+		      			</div>
+		      		</div>
+
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-10">
+		      				<p><span class="bold-inline">Old userflow:</span></p><p>1). Users enter their email, Set Password, and Confirm Password 2). Scroll to the bottom of thre pages to accept the terms and conditions 3). Enter Usernam and New Password 4). Land on Dashboard<img class="img-responsive" src="assets/img/portfolio/old_user_flow.png" alt="old user flow for cnvr access"></p>
+		      				<p><span class="bold-inline">New userflow:</span> </p> <p>1). Enter Password and Confirm Password (no email is necessary since they have received the secure sign in email from Conversant). Check the accept t&c box, with option to view legal t&C in another tab. 2). Land on Dashboard<img class="img-responsive" src="assets/img/portfolio/new_user_flow.png" alt="New user flow for cnvr access"></p>
+		      			</div>
+		      		</div>
+
+		      		<div class="row m-bottom2">
+		      			<div class="col-sm-10">
+		      				<p><span class="bold-inline">Results:</span> 
+		      				<ul>
+		      					<li>Utilized recently designed notification emails as a template to send to new client users</li>
+		      					<li>Got legal approval to allow users to accept terms and conditions through a checkbox on the first step. Optionally they can view t&c in another tab</li>
+		      					<li>Worked with engineering to combine setting the password (userflow screen 1 and userflow screen 3) and loggin in</li>
+		      				</ul>
+		      				These main points allowed us to present client users with a more polished email, and force them into one step for loggin in.
+		      				</p>
+		      			</div>
+		      		</div>
+      </div>
+      <div class="col-sm-4 col-sm-offset-1">
+      	<p></p>
+      </div>
+    </div>
+  </div>
+
+
+ <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwo">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          Springleaf Financial
+        </a>
+      </h4>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
+    		<div class="row m-bottom2">
+    			<div class="col-sm-12">
+    				<img class="img-responsive" src="assets/img/portfolio/modal/folioFourteenPopup.jpg" alt="saveup screens">
+    			</div>
+    		</div>
+    		<div class="row m-bottom2">
+    			<div class="col-sm-2">
+      			<h5>Role</h5>
+      			<p>UI/UX</p>
+      		</div>
+    			<div class="col-sm-2 col-sm-offset-1">
+      			<h5>Technologies</h5>
+      			<p>Sketch, PS, AI, HTML, CSS, JS</p>
+      		</div>
+					<div class="col-sm-2 col-sm-offset-1">
+						<h5>Timeframe</h5>
+						<p> ~ 2 years</p>
+					</div>
+    		</div>
+    		<div class="row m-bottom2">
+    			<div class="col-sm-9">
+    				<p><span class="bold-inline">Background:</span> Springleaf Financial is a financial services company based in Evansville, Indiana. The Chicago office I worked in was a remote digital marketing team assembled in early 2016. The office expanded to roughly forty five people while I worked there. Some of the teams goals:</p>
+    				<ul>
+    					<li>Improve messaging to target market</li>
+    					<li>Increase lead generation</li>
+    					<li>Consistent branding and aesthetics</li>
+    				</ul>
+    			</div>
+    		</div>
+    		<div class="row m-bottom2">
+    			<div class="col-sm-9">
+    				<p class="m-bottom"><span class="bold-inline">Role:</span> My primary role was the implementation of digital marketing campaigns. Secondly, I worked on designing website pages, landing pages,  and an internal reporting app for the marketing team.</p> 
+    			</div>
+    		</div>
+      </div>
+    </div>
+  </div>
+
+ <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          North American Bancard
+        </a>
+      </h4>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+    		<div class="row m-bottom2">
+    			<div class="col-sm-12">
+    				<img class="img-responsive" src="assets/img/portfolio/OLD/folioFourPopup.jpg" alt="saveup screens">
+    			</div>
+    		</div>
+    		<div class="row m-bottom2">
+    			<div class="col-sm-2">
+      			<h5>Role</h5>
+      			<p>UI/UX Developer</p>
+      		</div>
+    			<div class="col-sm-2 col-sm-offset-1">
+      			<h5>Technologies</h5>
+      			<p>PS, AI, HTML, CSS, JS</p>
+      		</div>
+					<div class="col-sm-2 col-sm-offset-1">
+						<h5>Timeframe</h5>
+						<p> ~ 1 year</p>
+					</div>
+    		</div>
+    		<div class="row m-bottom2">
+    			<div class="col-sm-9">
+    				<p><span class="bold-inline">Background:</span> North American Bancard is a credit card processing company that specializes in credit card processing for small to medium size businesses.</p>
+    			</div>
+    		</div>
+    		<div class="row m-bottom2">
+    			<div class="col-sm-9">
+    				<p class="m-bottom"><span class="bold-inline">Role:</span> My primary role was working with the creative marketing team to implement email campaigns, and web pages for NAB and subsidiaries.</p> 
+    			</div>
+    		</div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	</div><!--/container-->
 </section><!--/ portfolio -->
